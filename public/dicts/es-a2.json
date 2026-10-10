@@ -1,0 +1,7549 @@
+{
+  "id": "es-a2",
+  "name": "西班牙语 A2",
+  "description": "CEFR A2 级高频词 1000 个 · 中文释义 + 词性",
+  "category": "cefr",
+  "tags": [
+    "cefr",
+    "a2",
+    "beginner"
+  ],
+  "language": "es",
+  "languageCategory": "es-ES",
+  "words": [
+    {
+      "name": "cielos",
+      "trans": [
+        "天空（复数）",
+        "天哪！"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "teniente",
+      "trans": [
+        "中尉",
+        "副手"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "encuentra",
+      "trans": [
+        "找到",
+        "遇到",
+        "发现"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "david",
+      "trans": [
+        "大卫（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "veamos",
+      "trans": [
+        "让我们看看",
+        "我们看（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "quise",
+      "trans": [
+        "我曾想",
+        "我曾想要"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "escúchame",
+      "trans": [
+        "听我说"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "necesitan",
+      "trans": [
+        "他们需要"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ambos",
+      "trans": [
+        "两者",
+        "两个都"
+      ],
+      "pos": "pron./adj."
+    },
+    {
+      "name": "decisión",
+      "trans": [
+        "决定，决策"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "roma",
+      "trans": [
+        "罗马（城市）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "enemigo",
+      "trans": [
+        "敌人"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "hicimos",
+      "trans": [
+        "我们做了",
+        "我们干过"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "éi",
+      "trans": [
+        "他（él 的误拼/变体）"
+      ],
+      "pos": "pron."
+    },
+    {
+      "name": "dulce",
+      "trans": [
+        "甜的",
+        "糖果",
+        "温柔的"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "pruebas",
+      "trans": [
+        "证据",
+        "测试（复数）",
+        "你测试"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "querías",
+      "trans": [
+        "你（曾）想要"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "abuelo",
+      "trans": [
+        "祖父",
+        "爷爷",
+        "老头"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "totalmente",
+      "trans": [
+        "完全地，彻底地"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "mirando",
+      "trans": [
+        "正在看，注视着"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "vayan",
+      "trans": [
+        "他们去（虚拟式/命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "carrera",
+      "trans": [
+        "职业",
+        "赛跑",
+        "大学学业"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "vuelo",
+      "trans": [
+        "飞行",
+        "航班"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "ante",
+      "trans": [
+        "在……之前",
+        "面对"
+      ],
+      "pos": "prep."
+    },
+    {
+      "name": "bienvenido",
+      "trans": [
+        "受欢迎的",
+        "欢迎"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "harás",
+      "trans": [
+        "你将做",
+        "你将干"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "encontramos",
+      "trans": [
+        "我们找到",
+        "我们遇到"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "encontrado",
+      "trans": [
+        "找到的",
+        "被发现的"
+      ],
+      "pos": "part."
+    },
+    {
+      "name": "contacto",
+      "trans": [
+        "接触",
+        "联系"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "posición",
+      "trans": [
+        "位置",
+        "职位",
+        "地位"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "saberlo",
+      "trans": [
+        "知道它"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "planeta",
+      "trans": [
+        "行星",
+        "星球"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "humanos",
+      "trans": [
+        "人类的",
+        "人类（复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "coronel",
+      "trans": [
+        "上校"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "junto",
+      "trans": [
+        "一起的",
+        "靠近"
+      ],
+      "pos": "adj./adv."
+    },
+    {
+      "name": "diría",
+      "trans": [
+        "我会说",
+        "他/她会说"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ésa",
+      "trans": [
+        "那个（阴性，指示代词）"
+      ],
+      "pos": "pron."
+    },
+    {
+      "name": "base",
+      "trans": [
+        "基础",
+        "基地",
+        "底座"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "oír",
+      "trans": [
+        "听见"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "suelo",
+      "trans": [
+        "地面",
+        "土地",
+        "我通常"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "pelear",
+      "trans": [
+        "打架",
+        "争吵",
+        "奋斗"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ayudarte",
+      "trans": [
+        "帮助你"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pistola",
+      "trans": [
+        "手枪"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "frío",
+      "trans": [
+        "冷的",
+        "寒冷"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "comandante",
+      "trans": [
+        "指挥官",
+        "少校"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "partes",
+      "trans": [
+        "部分（复数）",
+        "你离开"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "llega",
+      "trans": [
+        "到达",
+        "抵达"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "verás",
+      "trans": [
+        "你将看到"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "sur",
+      "trans": [
+        "南方，南部"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "iremos",
+      "trans": [
+        "我们将去"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "rato",
+      "trans": [
+        "一会儿",
+        "一段时间"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "mar",
+      "trans": [
+        "海，海洋"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "espacio",
+      "trans": [
+        "空间",
+        "太空",
+        "场地"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "asesinato",
+      "trans": [
+        "谋杀，凶杀"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "ventana",
+      "trans": [
+        "窗户"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "prisa",
+      "trans": [
+        "匆忙，急忙"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tienda",
+      "trans": [
+        "商店",
+        "帐篷"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "cámara",
+      "trans": [
+        "相机",
+        "摄像",
+        "房间",
+        "议院"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "puedas",
+      "trans": [
+        "你能（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "según",
+      "trans": [
+        "按照，根据"
+      ],
+      "pos": "prep."
+    },
+    {
+      "name": "broma",
+      "trans": [
+        "玩笑，笑话"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "reunión",
+      "trans": [
+        "会议",
+        "聚会"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "despierta",
+      "trans": [
+        "醒着的",
+        "唤醒"
+      ],
+      "pos": "adj./v."
+    },
+    {
+      "name": "sacar",
+      "trans": [
+        "取出",
+        "拿出",
+        "弄出"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tí",
+      "trans": [
+        "你（介词后重读形式，tú 的误拼）"
+      ],
+      "pos": "pron."
+    },
+    {
+      "name": "segunda",
+      "trans": [
+        "第二（阴性）",
+        "二挡"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "papel",
+      "trans": [
+        "纸",
+        "角色",
+        "文件"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "locura",
+      "trans": [
+        "疯狂",
+        "狂热"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "departamento",
+      "trans": [
+        "部门",
+        "公寓（拉美）",
+        "省"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "horrible",
+      "trans": [
+        "可怕的",
+        "糟糕的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "enfermo",
+      "trans": [
+        "生病的",
+        "病人"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "pregunto",
+      "trans": [
+        "我问"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "cárcel",
+      "trans": [
+        "监狱"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "órdenes",
+      "trans": [
+        "命令",
+        "订单（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "intento",
+      "trans": [
+        "尝试，企图",
+        "我试图"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "isla",
+      "trans": [
+        "岛，岛屿"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "salida",
+      "trans": [
+        "出口",
+        "出路",
+        "离开"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "llamó",
+      "trans": [
+        "他/她叫了",
+        "打了电话"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "volveré",
+      "trans": [
+        "我将回来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "usa",
+      "trans": [
+        "使用",
+        "用"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "gato",
+      "trans": [
+        "猫"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "paul",
+      "trans": [
+        "保罗（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "hagan",
+      "trans": [
+        "他们做（虚拟式/命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "dejes",
+      "trans": [
+        "你留下",
+        "你别（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "duele",
+      "trans": [
+        "疼，痛"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "vengan",
+      "trans": [
+        "他们来（虚拟式/命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "crimen",
+      "trans": [
+        "罪行",
+        "犯罪"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "esperaba",
+      "trans": [
+        "我/他（曾）等待、期望"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "causa",
+      "trans": [
+        "原因",
+        "事业",
+        "（他）引起"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "bar",
+      "trans": [
+        "酒吧"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "seré",
+      "trans": [
+        "我将是"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ocho",
+      "trans": [
+        "八（数词）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "temprano",
+      "trans": [
+        "早地",
+        "早的"
+      ],
+      "pos": "adv./adj."
+    },
+    {
+      "name": "río",
+      "trans": [
+        "河流",
+        "我笑"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "relación",
+      "trans": [
+        "关系",
+        "联系"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "drogas",
+      "trans": [
+        "毒品",
+        "药物（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "luces",
+      "trans": [
+        "灯光",
+        "灯（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "bromeando",
+      "trans": [
+        "正在开玩笑"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ojalá",
+      "trans": [
+        "但愿，希望"
+      ],
+      "pos": "interj."
+    },
+    {
+      "name": "hablamos",
+      "trans": [
+        "我们说话",
+        "我们谈过"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "trabaja",
+      "trans": [
+        "工作"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "irse",
+      "trans": [
+        "离开",
+        "走开"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "libros",
+      "trans": [
+        "书（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "radio",
+      "trans": [
+        "收音机",
+        "无线电"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "mary",
+      "trans": [
+        "玛丽（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "ray",
+      "trans": [
+        "雷（人名）",
+        "光线"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "bill",
+      "trans": [
+        "比尔（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "vienes",
+      "trans": [
+        "你来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "quedan",
+      "trans": [
+        "剩下",
+        "停留（复数）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "excepto",
+      "trans": [
+        "除了"
+      ],
+      "pos": "prep."
+    },
+    {
+      "name": "brazo",
+      "trans": [
+        "手臂，胳膊"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tome",
+      "trans": [
+        "我/他取、拿（虚拟式）",
+        "请拿"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "rojo",
+      "trans": [
+        "红色的",
+        "红色"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "conocido",
+      "trans": [
+        "知名的",
+        "熟人",
+        "认识的"
+      ],
+      "pos": "adj./n./part."
+    },
+    {
+      "name": "universidad",
+      "trans": [
+        "大学"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "investigación",
+      "trans": [
+        "研究",
+        "调查"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "batalla",
+      "trans": [
+        "战斗，战役"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "reglas",
+      "trans": [
+        "规则（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "cargo",
+      "trans": [
+        "职位",
+        "指控",
+        "装载"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "hogar",
+      "trans": [
+        "家，家庭",
+        "炉灶"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "ninguno",
+      "trans": [
+        "没有一个",
+        "任何……都不"
+      ],
+      "pos": "pron./adj."
+    },
+    {
+      "name": "dieron",
+      "trans": [
+        "他们给了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "vuelva",
+      "trans": [
+        "我/他回来（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "sabías",
+      "trans": [
+        "你（曾）知道"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "respeto",
+      "trans": [
+        "尊重，尊敬"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "estación",
+      "trans": [
+        "车站",
+        "季节",
+        "电台"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "corte",
+      "trans": [
+        "切割",
+        "法院",
+        "宫廷",
+        "（他）切"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "paciente",
+      "trans": [
+        "病人",
+        "耐心的"
+      ],
+      "pos": "n./adj."
+    },
+    {
+      "name": "encuentro",
+      "trans": [
+        "相遇，会面",
+        "我找到"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "energía",
+      "trans": [
+        "能量",
+        "精力",
+        "能源"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "dejado",
+      "trans": [
+        "留下的",
+        "被遗弃的"
+      ],
+      "pos": "part."
+    },
+    {
+      "name": "baile",
+      "trans": [
+        "舞蹈，舞会"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "fbi",
+      "trans": [
+        "美国联邦调查局（缩写）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "abuela",
+      "trans": [
+        "祖母",
+        "奶奶"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "caliente",
+      "trans": [
+        "热的",
+        "烫的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "vieja",
+      "trans": [
+        "老的",
+        "老太婆",
+        "旧物（阴性）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "viendo",
+      "trans": [
+        "正在看"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "veremos",
+      "trans": [
+        "我们将看到"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "rayos",
+      "trans": [
+        "光线",
+        "闪电（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "simple",
+      "trans": [
+        "简单的",
+        "单纯的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "bailar",
+      "trans": [
+        "跳舞"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "papa",
+      "trans": [
+        "爸爸",
+        "教皇",
+        "土豆（拉美）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "triste",
+      "trans": [
+        "悲伤的，难过的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "zona",
+      "trans": [
+        "区域，地带"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "serás",
+      "trans": [
+        "你将是"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "guardia",
+      "trans": [
+        "警卫",
+        "守卫",
+        "值班"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "canción",
+      "trans": [
+        "歌曲"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "salud",
+      "trans": [
+        "健康",
+        "干杯"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "escuchar",
+      "trans": [
+        "听"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "parar",
+      "trans": [
+        "停止",
+        "停下"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "mike",
+      "trans": [
+        "迈克（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "estarás",
+      "trans": [
+        "你将在"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "cenar",
+      "trans": [
+        "吃晚饭"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "max",
+      "trans": [
+        "马克斯（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "soldados",
+      "trans": [
+        "士兵（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "caballo",
+      "trans": [
+        "马"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "serán",
+      "trans": [
+        "他们将是"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "estaremos",
+      "trans": [
+        "我们将在"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "interesa",
+      "trans": [
+        "感兴趣",
+        "使关心"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "volar",
+      "trans": [
+        "飞，飞翔"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "principio",
+      "trans": [
+        "开始",
+        "原则"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "nivel",
+      "trans": [
+        "水平",
+        "级别",
+        "层次"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "cálmate",
+      "trans": [
+        "冷静下来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "conocer",
+      "trans": [
+        "认识",
+        "了解",
+        "结识"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "finalmente",
+      "trans": [
+        "最后",
+        "终于",
+        "最终地"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "alegro",
+      "trans": [
+        "我高兴",
+        "我使……高兴"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "debajo",
+      "trans": [
+        "在下面"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "podrían",
+      "trans": [
+        "他们可能",
+        "他们能够（条件式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "bosque",
+      "trans": [
+        "森林"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "bonita",
+      "trans": [
+        "漂亮的（阴性）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "bolsa",
+      "trans": [
+        "袋子",
+        "钱包",
+        "股票交易所"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "pone",
+      "trans": [
+        "放置",
+        "穿上",
+        "变得"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "taxi",
+      "trans": [
+        "出租车"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "ocupado",
+      "trans": [
+        "忙碌的",
+        "被占用的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "amable",
+      "trans": [
+        "和蔼的，友善的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "ryan",
+      "trans": [
+        "瑞安（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "acaso",
+      "trans": [
+        "也许",
+        "难道"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "detente",
+      "trans": [
+        "站住",
+        "停下来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "imbécil",
+      "trans": [
+        "愚蠢的",
+        "白痴"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "san",
+      "trans": [
+        "圣（santo 的缩略，用于人名前）"
+      ],
+      "pos": "adj./n.pr."
+    },
+    {
+      "name": "equivocado",
+      "trans": [
+        "错误的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "viva",
+      "trans": [
+        "生活（虚拟式）",
+        "万岁",
+        "活的"
+      ],
+      "pos": "v./adj./interj."
+    },
+    {
+      "name": "puso",
+      "trans": [
+        "他/她放置了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "obra",
+      "trans": [
+        "作品",
+        "工程",
+        "行为"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "consejo",
+      "trans": [
+        "建议",
+        "忠告"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "público",
+      "trans": [
+        "公共的",
+        "公众"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "ayúdame",
+      "trans": [
+        "帮助我"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "animales",
+      "trans": [
+        "动物（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "azul",
+      "trans": [
+        "蓝色的",
+        "蓝色"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "apuesto",
+      "trans": [
+        "我打赌",
+        "英俊的"
+      ],
+      "pos": "v./adj."
+    },
+    {
+      "name": "prisión",
+      "trans": [
+        "监狱",
+        "监禁"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "mirar",
+      "trans": [
+        "看，注视"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "inteligente",
+      "trans": [
+        "聪明的，机智的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "metros",
+      "trans": [
+        "米",
+        "地铁（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "fantástico",
+      "trans": [
+        "极好的",
+        "幻想的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "próximo",
+      "trans": [
+        "下一个的",
+        "临近的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "jugando",
+      "trans": [
+        "正在玩"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ojo",
+      "trans": [
+        "眼睛",
+        "注意"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "salga",
+      "trans": [
+        "我/他出去（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "vea",
+      "trans": [
+        "我/他看（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "llaman",
+      "trans": [
+        "他们叫",
+        "称呼"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "entrada",
+      "trans": [
+        "入口",
+        "入场券",
+        "进入"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "duda",
+      "trans": [
+        "疑问",
+        "我怀疑"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "cerveza",
+      "trans": [
+        "啤酒"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "unidos",
+      "trans": [
+        "联合的，团结的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "matado",
+      "trans": [
+        "杀死的"
+      ],
+      "pos": "part."
+    },
+    {
+      "name": "princesa",
+      "trans": [
+        "公主"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "perdí",
+      "trans": [
+        "我丢了",
+        "我输了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "entender",
+      "trans": [
+        "理解，明白"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "santa",
+      "trans": [
+        "圣（santo 的阴性）"
+      ],
+      "pos": "adj./n.pr."
+    },
+    {
+      "name": "quedar",
+      "trans": [
+        "留下",
+        "剩下",
+        "约定"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "miles",
+      "trans": [
+        "数千（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "llamaré",
+      "trans": [
+        "我将打电话",
+        "我将叫"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "compañero",
+      "trans": [
+        "同伴",
+        "同学",
+        "同事"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "pensado",
+      "trans": [
+        "想过的",
+        "深思熟虑的"
+      ],
+      "pos": "part./adj."
+    },
+    {
+      "name": "espalda",
+      "trans": [
+        "背，背部"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "dejé",
+      "trans": [
+        "我留下",
+        "我放弃了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "bomba",
+      "trans": [
+        "炸弹",
+        "水泵"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "alex",
+      "trans": [
+        "亚历克斯（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "cartas",
+      "trans": [
+        "信",
+        "纸牌（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "apenas",
+      "trans": [
+        "几乎不",
+        "刚刚",
+        "勉强"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "leer",
+      "trans": [
+        "阅读"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "hermanos",
+      "trans": [
+        "兄弟",
+        "兄弟姐妹（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "darme",
+      "trans": [
+        "给我"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "papi",
+      "trans": [
+        "爸爸（亲昵）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "mantener",
+      "trans": [
+        "保持",
+        "维持",
+        "赡养"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "suyo",
+      "trans": [
+        "他的/她的/您的（物主代词）"
+      ],
+      "pos": "pron./adj."
+    },
+    {
+      "name": "rico",
+      "trans": [
+        "富有的",
+        "美味的",
+        "有钱人"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "verla",
+      "trans": [
+        "看她"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "lee",
+      "trans": [
+        "阅读"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "bobby",
+      "trans": [
+        "博比（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "sigues",
+      "trans": [
+        "你继续"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "toca",
+      "trans": [
+        "触摸",
+        "弹奏",
+        "轮到"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "olvídalo",
+      "trans": [
+        "忘掉它吧"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "acción",
+      "trans": [
+        "行动",
+        "动作",
+        "作用"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "hayas",
+      "trans": [
+        "你（曾）有（虚拟式完成时助动词）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "dioses",
+      "trans": [
+        "神（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "mando",
+      "trans": [
+        "命令",
+        "遥控器",
+        "我指挥"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "dejaré",
+      "trans": [
+        "我将留下",
+        "我将放弃"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "llegue",
+      "trans": [
+        "我/他到达（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "formas",
+      "trans": [
+        "形式，方式（复数）",
+        "你形成"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "uh",
+      "trans": [
+        "呃（表示犹豫/惊讶）"
+      ],
+      "pos": "interj."
+    },
+    {
+      "name": "henry",
+      "trans": [
+        "亨利（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "cierra",
+      "trans": [
+        "关闭"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "damas",
+      "trans": [
+        "女士（复数）",
+        "国际跳棋"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "puente",
+      "trans": [
+        "桥",
+        "桥梁"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "memoria",
+      "trans": [
+        "记忆",
+        "内存"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "regresa",
+      "trans": [
+        "回来",
+        "返回"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "muévanse",
+      "trans": [
+        "你们动一动"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "parecía",
+      "trans": [
+        "看起来（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "vestido",
+      "trans": [
+        "连衣裙",
+        "穿着的"
+      ],
+      "pos": "n./part."
+    },
+    {
+      "name": "llaves",
+      "trans": [
+        "钥匙（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tv",
+      "trans": [
+        "电视（televisión 缩写）"
+      ],
+      "pos": "n./abrev."
+    },
+    {
+      "name": "camión",
+      "trans": [
+        "卡车"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "acabar",
+      "trans": [
+        "结束，完成"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "robot",
+      "trans": [
+        "机器人"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "llevó",
+      "trans": [
+        "他/她带走了",
+        "穿走了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "montón",
+      "trans": [
+        "一大堆，许多"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "estuviste",
+      "trans": [
+        "你（曾）在"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "máquina",
+      "trans": [
+        "机器"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "puertas",
+      "trans": [
+        "门（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "podamos",
+      "trans": [
+        "我们能（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "muere",
+      "trans": [
+        "死亡"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "trago",
+      "trans": [
+        "一口（酒）",
+        "我吞咽"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "mayoría",
+      "trans": [
+        "大多数"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "reina",
+      "trans": [
+        "女王",
+        "皇后",
+        "（她）统治"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "lleno",
+      "trans": [
+        "满的",
+        "充满的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "inglés",
+      "trans": [
+        "英国的",
+        "英语",
+        "英国人"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "don",
+      "trans": [
+        "唐（先生，尊称）",
+        "天赋"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "soldado",
+      "trans": [
+        "士兵"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "estrella",
+      "trans": [
+        "星星",
+        "明星"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "escuche",
+      "trans": [
+        "我/他听（虚拟式/命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "valor",
+      "trans": [
+        "价值",
+        "勇气",
+        "价格"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "pido",
+      "trans": [
+        "我请求",
+        "我点（餐）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "delante",
+      "trans": [
+        "在前面"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "código",
+      "trans": [
+        "密码",
+        "代码",
+        "法典"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "héroe",
+      "trans": [
+        "英雄"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "fe",
+      "trans": [
+        "信仰",
+        "信念",
+        "信心"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "capaz",
+      "trans": [
+        "有能力的",
+        "能够"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "verme",
+      "trans": [
+        "看到我"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "beber",
+      "trans": [
+        "喝"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "velocidad",
+      "trans": [
+        "速度"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "darte",
+      "trans": [
+        "给你"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "llevas",
+      "trans": [
+        "你带着",
+        "你穿着"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "partido",
+      "trans": [
+        "比赛",
+        "政党",
+        "分手的"
+      ],
+      "pos": "n./part."
+    },
+    {
+      "name": "estuviera",
+      "trans": [
+        "我/他（曾）在（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tony",
+      "trans": [
+        "托尼（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "lex",
+      "trans": [
+        "莱克斯（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "dia",
+      "trans": [
+        "天，日（día 的误拼）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "opinión",
+      "trans": [
+        "意见，看法"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "irte",
+      "trans": [
+        "离开（你）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "cocina",
+      "trans": [
+        "厨房",
+        "烹饪",
+        "他做饭"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "abrir",
+      "trans": [
+        "打开"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "perros",
+      "trans": [
+        "狗（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tambien",
+      "trans": [
+        "也（también 的误拼）"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "sepa",
+      "trans": [
+        "我知道（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pareces",
+      "trans": [
+        "你看起来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "escribir",
+      "trans": [
+        "写"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "golpe",
+      "trans": [
+        "打击",
+        "一击",
+        "政变"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tenia",
+      "trans": [
+        "我有（tenía 的误拼）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "alta",
+      "trans": [
+        "高的（阴性）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "estados",
+      "trans": [
+        "状态",
+        "国家（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tocar",
+      "trans": [
+        "触摸",
+        "演奏",
+        "轮到"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "vuelvo",
+      "trans": [
+        "我回来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "habían",
+      "trans": [
+        "他们有（过去）",
+        "曾有"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ganas",
+      "trans": [
+        "愿望，兴致"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "hacerte",
+      "trans": [
+        "使你",
+        "为你做"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "dejo",
+      "trans": [
+        "我留下",
+        "我放弃"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "volvió",
+      "trans": [
+        "他/她回来了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ejemplo",
+      "trans": [
+        "例子，榜样"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "robert",
+      "trans": [
+        "罗伯特（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "contar",
+      "trans": [
+        "讲述",
+        "数",
+        "指望"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tenían",
+      "trans": [
+        "他们有（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "propósito",
+      "trans": [
+        "目的，意图"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "entiende",
+      "trans": [
+        "理解",
+        "听懂"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "empieza",
+      "trans": [
+        "开始"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "anillo",
+      "trans": [
+        "戒指"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "londres",
+      "trans": [
+        "伦敦（城市）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "tendría",
+      "trans": [
+        "我/他会有（条件式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pedir",
+      "trans": [
+        "请求",
+        "点（餐）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "estilo",
+      "trans": [
+        "风格",
+        "样式"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "ayudarme",
+      "trans": [
+        "帮助我"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pista",
+      "trans": [
+        "线索",
+        "跑道",
+        "舞池"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "cambiado",
+      "trans": [
+        "改变了的"
+      ],
+      "pos": "part."
+    },
+    {
+      "name": "escapar",
+      "trans": [
+        "逃跑，逃脱"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "eeuu",
+      "trans": [
+        "美国（Estados Unidos 缩写）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "encontró",
+      "trans": [
+        "他/她找到了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "espíritu",
+      "trans": [
+        "精神",
+        "灵魂"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "viejos",
+      "trans": [
+        "老的",
+        "老人们（复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "molesta",
+      "trans": [
+        "恼人的",
+        "打扰"
+      ],
+      "pos": "adj./v."
+    },
+    {
+      "name": "nota",
+      "trans": [
+        "笔记",
+        "分数",
+        "他注意到"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "diferencia",
+      "trans": [
+        "差别，不同"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tratar",
+      "trans": [
+        "对待",
+        "治疗",
+        "试图"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "precio",
+      "trans": [
+        "价格"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "caballero",
+      "trans": [
+        "先生",
+        "骑士"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "sirve",
+      "trans": [
+        "服务",
+        "有用",
+        "端上"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "alegra",
+      "trans": [
+        "使高兴"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "doble",
+      "trans": [
+        "双倍的",
+        "双重"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "agradable",
+      "trans": [
+        "令人愉快的，舒适的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "embargo",
+      "trans": [
+        "禁运",
+        "扣押"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tengan",
+      "trans": [
+        "他们有（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tuvimos",
+      "trans": [
+        "我们有过"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "sube",
+      "trans": [
+        "上升",
+        "登上",
+        "上传"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "estén",
+      "trans": [
+        "他们在（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "mami",
+      "trans": [
+        "妈妈（亲昵）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "emergencia",
+      "trans": [
+        "紧急情况"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "cuello",
+      "trans": [
+        "脖子",
+        "衣领"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "boda",
+      "trans": [
+        "婚礼"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "aprender",
+      "trans": [
+        "学习"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pete",
+      "trans": [
+        "皮特（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "té",
+      "trans": [
+        "茶"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "informe",
+      "trans": [
+        "报告",
+        "无形状的"
+      ],
+      "pos": "n./adj."
+    },
+    {
+      "name": "blanca",
+      "trans": [
+        "白色的（阴性）",
+        "白葡萄酒"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "experiencia",
+      "trans": [
+        "经验",
+        "经历"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "debía",
+      "trans": [
+        "我应该（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "podido",
+      "trans": [
+        "能够（过去分词）"
+      ],
+      "pos": "part."
+    },
+    {
+      "name": "mentira",
+      "trans": [
+        "谎言"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "director",
+      "trans": [
+        "主任",
+        "导演",
+        "校长"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "mata",
+      "trans": [
+        "杀",
+        "（他）杀死",
+        "灌木"
+      ],
+      "pos": "v./n."
+    },
+    {
+      "name": "exacto",
+      "trans": [
+        "精确的",
+        "正是"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "eddie",
+      "trans": [
+        "埃迪（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "déjalo",
+      "trans": [
+        "放下它",
+        "随它去吧"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "defensa",
+      "trans": [
+        "防御",
+        "辩护",
+        "后卫"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tuviste",
+      "trans": [
+        "你有过"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "confiar",
+      "trans": [
+        "信任"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "color",
+      "trans": [
+        "颜色"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "bond",
+      "trans": [
+        "邦德（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "hacerle",
+      "trans": [
+        "给他/她做"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "aquel",
+      "trans": [
+        "那个（远的）"
+      ],
+      "pos": "pron./adj."
+    },
+    {
+      "name": "conocí",
+      "trans": [
+        "我认识了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "probar",
+      "trans": [
+        "尝试",
+        "品尝",
+        "证明"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "príncipe",
+      "trans": [
+        "王子"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "irá",
+      "trans": [
+        "他/她将去"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "sóio",
+      "trans": [
+        "只有",
+        "独自的（solo 的误拼）"
+      ],
+      "pos": "adv./adj."
+    },
+    {
+      "name": "ai",
+      "trans": [
+        "哎哟（表示疼痛）"
+      ],
+      "pos": "interj."
+    },
+    {
+      "name": "despacio",
+      "trans": [
+        "慢慢地"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "tiro",
+      "trans": [
+        "射击",
+        "投掷",
+        "我扔"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "vacaciones",
+      "trans": [
+        "假期（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "perdió",
+      "trans": [
+        "他/她丢了",
+        "输了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "fondo",
+      "trans": [
+        "底部",
+        "背景",
+        "资金"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "chris",
+      "trans": [
+        "克里斯（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "verde",
+      "trans": [
+        "绿色的",
+        "绿色"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "parecen",
+      "trans": [
+        "他们看起来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "mama",
+      "trans": [
+        "妈妈",
+        "吮吸"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "bienvenida",
+      "trans": [
+        "欢迎（阴性）"
+      ],
+      "pos": "n./adj."
+    },
+    {
+      "name": "opción",
+      "trans": [
+        "选择，选项"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "operación",
+      "trans": [
+        "手术",
+        "操作",
+        "行动"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "jim",
+      "trans": [
+        "吉姆（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "hablado",
+      "trans": [
+        "说过的"
+      ],
+      "pos": "part."
+    },
+    {
+      "name": "traer",
+      "trans": [
+        "带来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "principal",
+      "trans": [
+        "主要的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "demonio",
+      "trans": [
+        "魔鬼"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "zapatos",
+      "trans": [
+        "鞋（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "leo",
+      "trans": [
+        "我阅读",
+        "莱奥（人名）"
+      ],
+      "pos": "v./n.pr."
+    },
+    {
+      "name": "anna",
+      "trans": [
+        "安娜（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "respecto",
+      "trans": [
+        "关于",
+        "方面"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "nuevos",
+      "trans": [
+        "新的（复数）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "especie",
+      "trans": [
+        "物种",
+        "种类"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "pidió",
+      "trans": [
+        "他/她请求了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "éxito",
+      "trans": [
+        "成功"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "cabrón",
+      "trans": [
+        "混蛋（粗俗）",
+        "该死的"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "mírame",
+      "trans": [
+        "看着我"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "piernas",
+      "trans": [
+        "腿（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "unidad",
+      "trans": [
+        "单位",
+        "团结",
+        "单元"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "hielo",
+      "trans": [
+        "冰"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "llegamos",
+      "trans": [
+        "我们到达"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "déjeme",
+      "trans": [
+        "让我（敬称命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ios",
+      "trans": [
+        "iOS（苹果操作系统）",
+        "或 dios 的误拼"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "debí",
+      "trans": [
+        "我应该（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "vendrá",
+      "trans": [
+        "他/她将来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "matrimonio",
+      "trans": [
+        "婚姻",
+        "婚礼"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "habías",
+      "trans": [
+        "你（曾）有（完成时助动词）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "podrá",
+      "trans": [
+        "他/她将能够"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "piel",
+      "trans": [
+        "皮肤",
+        "皮毛"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "preocupa",
+      "trans": [
+        "使担心"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "quedarme",
+      "trans": [
+        "留下（我）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "mio",
+      "trans": [
+        "我的（mío 的误拼）"
+      ],
+      "pos": "pron./adj."
+    },
+    {
+      "name": "tuviera",
+      "trans": [
+        "我/他有（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tiempos",
+      "trans": [
+        "时间",
+        "时代",
+        "天气（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "richard",
+      "trans": [
+        "理查德（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "quienes",
+      "trans": [
+        "那些……的人（复数关系代词）"
+      ],
+      "pos": "pron."
+    },
+    {
+      "name": "oiga",
+      "trans": [
+        "我/他听（虚拟式）",
+        "喂（电话用语）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "últimos",
+      "trans": [
+        "最后的（复数）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "oigan",
+      "trans": [
+        "你们听（命令式/虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "fuimos",
+      "trans": [
+        "我们去了",
+        "我们是"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "arte",
+      "trans": [
+        "艺术"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "necesitaba",
+      "trans": [
+        "我/他需要（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "quiénes",
+      "trans": [
+        "谁（复数，带重音）"
+      ],
+      "pos": "pron."
+    },
+    {
+      "name": "común",
+      "trans": [
+        "共同的",
+        "普通的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "intentando",
+      "trans": [
+        "正在尝试"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "llevaré",
+      "trans": [
+        "我将带走",
+        "我将穿着"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "levántate",
+      "trans": [
+        "站起来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "correr",
+      "trans": [
+        "跑"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "brillante",
+      "trans": [
+        "闪亮的",
+        "杰出的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "calor",
+      "trans": [
+        "热",
+        "炎热"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "planes",
+      "trans": [
+        "计划（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "dra",
+      "trans": [
+        "女博士",
+        "女医生（doctora 缩写）"
+      ],
+      "pos": "n./abrev."
+    },
+    {
+      "name": "visita",
+      "trans": [
+        "拜访",
+        "参观",
+        "他参观"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "presión",
+      "trans": [
+        "压力",
+        "血压"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "pared",
+      "trans": [
+        "墙"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "esperanza",
+      "trans": [
+        "希望"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "completo",
+      "trans": [
+        "完整的",
+        "满的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "subir",
+      "trans": [
+        "上升",
+        "登上",
+        "上传"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "cansado",
+      "trans": [
+        "疲劳的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "llame",
+      "trans": [
+        "我/他打电话（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "recordar",
+      "trans": [
+        "记得",
+        "提醒"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "trampa",
+      "trans": [
+        "陷阱",
+        "诡计"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "monstruo",
+      "trans": [
+        "怪物"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "bajar",
+      "trans": [
+        "下降",
+        "下载",
+        "降低"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pierna",
+      "trans": [
+        "腿"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "señores",
+      "trans": [
+        "先生们",
+        "各位（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tomó",
+      "trans": [
+        "他/她拿了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pasará",
+      "trans": [
+        "将发生",
+        "将通过"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "mataste",
+      "trans": [
+        "你杀了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "grandioso",
+      "trans": [
+        "宏伟的",
+        "极好的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "socio",
+      "trans": [
+        "合伙人",
+        "会员",
+        "哥们"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "herido",
+      "trans": [
+        "受伤的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "cayó",
+      "trans": [
+        "他/她跌倒了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "fuerzas",
+      "trans": [
+        "力量",
+        "军队（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "nick",
+      "trans": [
+        "尼克（人名）",
+        "昵称"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "cine",
+      "trans": [
+        "电影院",
+        "电影"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "escena",
+      "trans": [
+        "场景",
+        "场面"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tía",
+      "trans": [
+        "姑姑",
+        "阿姨",
+        "婶婶"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "danny",
+      "trans": [
+        "丹尼（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "dando",
+      "trans": [
+        "正在给"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "puntos",
+      "trans": [
+        "点",
+        "分数（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "teníamos",
+      "trans": [
+        "我们有（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "dejaste",
+      "trans": [
+        "你留下了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "muévete",
+      "trans": [
+        "动一动",
+        "快点"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "larga",
+      "trans": [
+        "长的（阴性）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "solía",
+      "trans": [
+        "我/他过去常常"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tema",
+      "trans": [
+        "主题",
+        "话题",
+        "歌曲"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "preparado",
+      "trans": [
+        "准备好的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "depende",
+      "trans": [
+        "取决于"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "policías",
+      "trans": [
+        "警察（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "solos",
+      "trans": [
+        "独自的（复数）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "matarme",
+      "trans": [
+        "杀我"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "mark",
+      "trans": [
+        "马克（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "pon",
+      "trans": [
+        "放",
+        "穿上（命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "hubiese",
+      "trans": [
+        "如果我有（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "bebe",
+      "trans": [
+        "喝",
+        "婴儿"
+      ],
+      "pos": "v./n."
+    },
+    {
+      "name": "tanta",
+      "trans": [
+        "这么多（阴性）"
+      ],
+      "pos": "adj./pron."
+    },
+    {
+      "name": "oeste",
+      "trans": [
+        "西方"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "parís",
+      "trans": [
+        "巴黎（城市）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "viento",
+      "trans": [
+        "风"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "jóvenes",
+      "trans": [
+        "年轻的",
+        "年轻人（复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "hacerme",
+      "trans": [
+        "使我",
+        "为我做"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "asiento",
+      "trans": [
+        "座位"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "carter",
+      "trans": [
+        "卡特（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "washington",
+      "trans": [
+        "华盛顿（城市/人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "estupendo",
+      "trans": [
+        "极好的，了不起的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "caminar",
+      "trans": [
+        "走路，步行"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "juicio",
+      "trans": [
+        "审判",
+        "判断",
+        "理智"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "creerlo",
+      "trans": [
+        "相信它"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "carga",
+      "trans": [
+        "负担",
+        "货物",
+        "他装载"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "tranquila",
+      "trans": [
+        "平静的（阴性）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "banda",
+      "trans": [
+        "乐队",
+        "团伙",
+        "带子"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "estarán",
+      "trans": [
+        "他们将在"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "animal",
+      "trans": [
+        "动物",
+        "野兽般的"
+      ],
+      "pos": "n./adj."
+    },
+    {
+      "name": "escuchen",
+      "trans": [
+        "你们听（命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "bush",
+      "trans": [
+        "布什（人名/姓氏）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "encontraron",
+      "trans": [
+        "他们找到了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "dejas",
+      "trans": [
+        "你留下"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tarjeta",
+      "trans": [
+        "卡片",
+        "银行卡"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "ibas",
+      "trans": [
+        "你（曾）去"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "podrás",
+      "trans": [
+        "你将能够"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "nueve",
+      "trans": [
+        "九（数词）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "seguramente",
+      "trans": [
+        "大概",
+        "肯定地"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "volverá",
+      "trans": [
+        "他/她将回来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "majestad",
+      "trans": [
+        "陛下",
+        "威严"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "llena",
+      "trans": [
+        "满的（阴性）",
+        "填满"
+      ],
+      "pos": "adj./v."
+    },
+    {
+      "name": "caer",
+      "trans": [
+        "落下",
+        "跌倒"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "aeropuerto",
+      "trans": [
+        "机场"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "vayamos",
+      "trans": [
+        "我们去（虚拟式/命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tommy",
+      "trans": [
+        "汤米（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "acabado",
+      "trans": [
+        "完成的",
+        "完蛋的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "sigo",
+      "trans": [
+        "我继续"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "enorme",
+      "trans": [
+        "巨大的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "área",
+      "trans": [
+        "区域",
+        "面积"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "muevas",
+      "trans": [
+        "你移动（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "haberlo",
+      "trans": [
+        "有它（完成时助动词 + lo）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "dejen",
+      "trans": [
+        "你们留下/允许（命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ridículo",
+      "trans": [
+        "可笑的",
+        "荒唐"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "reloj",
+      "trans": [
+        "钟表"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "hagamos",
+      "trans": [
+        "我们做（虚拟式/命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "flores",
+      "trans": [
+        "花（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "mapa",
+      "trans": [
+        "地图"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "culpable",
+      "trans": [
+        "有罪的",
+        "罪犯"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "cuentas",
+      "trans": [
+        "账目",
+        "计算（复数）",
+        "你讲述"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "pareja",
+      "trans": [
+        "一对",
+        "情侣",
+        "搭档"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tomando",
+      "trans": [
+        "正在拿/喝"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "m",
+      "trans": [
+        "米（metro 缩写）",
+        "字母 M"
+      ],
+      "pos": "n./abrev."
+    },
+    {
+      "name": "laboratorio",
+      "trans": [
+        "实验室"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "beso",
+      "trans": [
+        "吻"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "empezó",
+      "trans": [
+        "开始了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pedí",
+      "trans": [
+        "我请求了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "nariz",
+      "trans": [
+        "鼻子"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "cuestión",
+      "trans": [
+        "问题",
+        "事情"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "terminó",
+      "trans": [
+        "结束了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "vengo",
+      "trans": [
+        "我来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "the",
+      "trans": [
+        "英语定冠词 the（借词）"
+      ],
+      "pos": "art./ingl."
+    },
+    {
+      "name": "perdona",
+      "trans": [
+        "原谅",
+        "对不起"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "acuerdas",
+      "trans": [
+        "你记得"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "verano",
+      "trans": [
+        "夏天"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "prefiero",
+      "trans": [
+        "我更喜欢"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "peso",
+      "trans": [
+        "重量",
+        "比索（货币）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "billy",
+      "trans": [
+        "比利（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "oscuridad",
+      "trans": [
+        "黑暗"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "diferentes",
+      "trans": [
+        "不同的（复数）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "cliente",
+      "trans": [
+        "客户",
+        "顾客"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "charles",
+      "trans": [
+        "查尔斯（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "cuántas",
+      "trans": [
+        "多少（阴性复数）"
+      ],
+      "pos": "pron./adj."
+    },
+    {
+      "name": "televisión",
+      "trans": [
+        "电视"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "suya",
+      "trans": [
+        "他的/她的/您的（阴性物主代词）"
+      ],
+      "pos": "pron./adj."
+    },
+    {
+      "name": "prensa",
+      "trans": [
+        "新闻界",
+        "报纸",
+        "印刷机"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "johnny",
+      "trans": [
+        "约翰尼（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "vistazo",
+      "trans": [
+        "一瞥，扫一眼"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "inmediatamente",
+      "trans": [
+        "立即，马上"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "solamente",
+      "trans": [
+        "仅仅，只"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "gordo",
+      "trans": [
+        "胖的",
+        "胖子"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "quedarse",
+      "trans": [
+        "留下",
+        "待"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "posibilidad",
+      "trans": [
+        "可能性"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "medicina",
+      "trans": [
+        "医学",
+        "药"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "malditos",
+      "trans": [
+        "该死的（复数）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "pantalones",
+      "trans": [
+        "裤子（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "mataron",
+      "trans": [
+        "他们杀了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ayude",
+      "trans": [
+        "我/他帮助（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "podremos",
+      "trans": [
+        "我们将能够"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "locos",
+      "trans": [
+        "疯狂的",
+        "疯子（复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "nombres",
+      "trans": [
+        "名字（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "superman",
+      "trans": [
+        "超人（漫画人物）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "parecer",
+      "trans": [
+        "看起来",
+        "意见"
+      ],
+      "pos": "v./n."
+    },
+    {
+      "name": "américa",
+      "trans": [
+        "美洲",
+        "美国"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "definitivamente",
+      "trans": [
+        "最终",
+        "确实"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "cinta",
+      "trans": [
+        "带子",
+        "胶带",
+        "影片"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "desea",
+      "trans": [
+        "希望",
+        "渴望"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "brazos",
+      "trans": [
+        "手臂（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "asuntos",
+      "trans": [
+        "事务",
+        "事情（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "riesgo",
+      "trans": [
+        "风险"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "escuché",
+      "trans": [
+        "我听了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "lugares",
+      "trans": [
+        "地方（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "i",
+      "trans": [
+        "我（英语 I）"
+      ],
+      "pos": "pron./ingl."
+    },
+    {
+      "name": "cuento",
+      "trans": [
+        "故事",
+        "我讲述"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "noticia",
+      "trans": [
+        "消息",
+        "新闻"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "dígame",
+      "trans": [
+        "请告诉我（敬称）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "decirlo",
+      "trans": [
+        "说它"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tonterías",
+      "trans": [
+        "蠢话",
+        "傻事（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "sentimientos",
+      "trans": [
+        "感情，感受（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "objetivo",
+      "trans": [
+        "目标",
+        "客观的"
+      ],
+      "pos": "n./adj."
+    },
+    {
+      "name": "pasada",
+      "trans": [
+        "经过",
+        "一瞬",
+        "过去（阴性）"
+      ],
+      "pos": "n./adj."
+    },
+    {
+      "name": "arreglar",
+      "trans": [
+        "修理",
+        "整理",
+        "解决"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "casado",
+      "trans": [
+        "已婚的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "bote",
+      "trans": [
+        "小船",
+        "罐子"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "roja",
+      "trans": [
+        "红色的（阴性）",
+        "红色"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "leyes",
+      "trans": [
+        "法律（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "millón",
+      "trans": [
+        "百万"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "árbol",
+      "trans": [
+        "树"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "hable",
+      "trans": [
+        "我/他说话（虚拟式/命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "proyecto",
+      "trans": [
+        "项目",
+        "计划"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "nervioso",
+      "trans": [
+        "紧张的",
+        "神经质的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "lana",
+      "trans": [
+        "羊毛",
+        "毛线",
+        "钱（口语）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "salido",
+      "trans": [
+        "出去的"
+      ],
+      "pos": "part."
+    },
+    {
+      "name": "pedazo",
+      "trans": [
+        "一块，一片"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "malas",
+      "trans": [
+        "坏的（阴性复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "joder",
+      "trans": [
+        "他妈的（粗俗）",
+        "搞砸"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "humana",
+      "trans": [
+        "人类的（阴性）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "absolutamente",
+      "trans": [
+        "绝对地",
+        "完全"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "evitar",
+      "trans": [
+        "避免"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "corriendo",
+      "trans": [
+        "正在跑"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "bala",
+      "trans": [
+        "子弹"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "vosotros",
+      "trans": [
+        "你们（西班牙本土用法）"
+      ],
+      "pos": "pron."
+    },
+    {
+      "name": "despues",
+      "trans": [
+        "之后（después 的误拼）"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "debido",
+      "trans": [
+        "由于",
+        "应有的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "confianza",
+      "trans": [
+        "信任",
+        "信心"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "especialmente",
+      "trans": [
+        "特别地，尤其"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "intenta",
+      "trans": [
+        "尝试"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pequeños",
+      "trans": [
+        "小的",
+        "小孩（复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "paga",
+      "trans": [
+        "工资",
+        "付款",
+        "他支付"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "ganado",
+      "trans": [
+        "牲畜",
+        "赢得的"
+      ],
+      "pos": "n./part."
+    },
+    {
+      "name": "ama",
+      "trans": [
+        "爱",
+        "女主人"
+      ],
+      "pos": "v./n."
+    },
+    {
+      "name": "limpio",
+      "trans": [
+        "干净的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "comenzar",
+      "trans": [
+        "开始"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ángeles",
+      "trans": [
+        "天使（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "robots",
+      "trans": [
+        "机器人（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "lleve",
+      "trans": [
+        "我/他带（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ruido",
+      "trans": [
+        "噪音"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "preocupe",
+      "trans": [
+        "我/他担心（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "jason",
+      "trans": [
+        "杰森（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "belleza",
+      "trans": [
+        "美丽",
+        "美人"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "salgan",
+      "trans": [
+        "他们出去（虚拟式/命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "come",
+      "trans": [
+        "吃"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "verá",
+      "trans": [
+        "他/她将看到"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "deberían",
+      "trans": [
+        "他们应该（条件式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "líder",
+      "trans": [
+        "领袖，领导者"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "preguntar",
+      "trans": [
+        "问，询问"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "inocente",
+      "trans": [
+        "无辜的",
+        "天真的"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "andy",
+      "trans": [
+        "安迪（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "lástima",
+      "trans": [
+        "遗憾",
+        "可惜"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "red",
+      "trans": [
+        "网",
+        "网络"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "enfermedad",
+      "trans": [
+        "疾病"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "desgraciado",
+      "trans": [
+        "不幸的",
+        "混蛋"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "harán",
+      "trans": [
+        "他们将做"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "dientes",
+      "trans": [
+        "牙齿（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "maté",
+      "trans": [
+        "我杀了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "central",
+      "trans": [
+        "中心的",
+        "中央",
+        "总部"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "ponte",
+      "trans": [
+        "穿上",
+        "戴上（命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "felices",
+      "trans": [
+        "幸福的（复数）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "supe",
+      "trans": [
+        "我知道了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "haberte",
+      "trans": [
+        "有（haber + te 组合）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "marcha",
+      "trans": [
+        "出发",
+        "行进",
+        "运转"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "poderes",
+      "trans": [
+        "权力",
+        "能力（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "hubieras",
+      "trans": [
+        "如果你有（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "justicia",
+      "trans": [
+        "正义",
+        "司法"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "bella",
+      "trans": [
+        "美丽的（阴性）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "dé",
+      "trans": [
+        "我给/给（虚拟式/命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "proteger",
+      "trans": [
+        "保护"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "cabello",
+      "trans": [
+        "头发"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "pedido",
+      "trans": [
+        "订单",
+        "请求",
+        "请求过的"
+      ],
+      "pos": "n./part."
+    },
+    {
+      "name": "oscuro",
+      "trans": [
+        "黑暗的",
+        "深色的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "sarah",
+      "trans": [
+        "莎拉（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "embarazada",
+      "trans": [
+        "怀孕的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "costa",
+      "trans": [
+        "海岸"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "dama",
+      "trans": [
+        "女士",
+        "贵妇"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "alguno",
+      "trans": [
+        "某个",
+        "一些"
+      ],
+      "pos": "pron./adj."
+    },
+    {
+      "name": "orgulloso",
+      "trans": [
+        "骄傲的，自豪的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "vos",
+      "trans": [
+        "你（拉美/古用法）"
+      ],
+      "pos": "pron."
+    },
+    {
+      "name": "tomado",
+      "trans": [
+        "拿了的",
+        "喝醉的"
+      ],
+      "pos": "part./adj."
+    },
+    {
+      "name": "digamos",
+      "trans": [
+        "我们说（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "debió",
+      "trans": [
+        "他/她应该（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "gana",
+      "trans": [
+        "愿望",
+        "赢"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "cura",
+      "trans": [
+        "神父",
+        "治疗",
+        "治愈"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "lengua",
+      "trans": [
+        "舌头",
+        "语言"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "araña",
+      "trans": [
+        "蜘蛛"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "podré",
+      "trans": [
+        "我将能够"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "voluntad",
+      "trans": [
+        "意志",
+        "意愿"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "total",
+      "trans": [
+        "总的",
+        "总计",
+        "总之"
+      ],
+      "pos": "adj./n./adv."
+    },
+    {
+      "name": "dedo",
+      "trans": [
+        "手指",
+        "脚趾"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "pago",
+      "trans": [
+        "付款",
+        "工资",
+        "我支付"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "agradezco",
+      "trans": [
+        "我感谢"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "partir",
+      "trans": [
+        "出发",
+        "离开",
+        "分割"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "lucha",
+      "trans": [
+        "斗争",
+        "战斗"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "leche",
+      "trans": [
+        "牛奶"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "luke",
+      "trans": [
+        "卢克（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "diste",
+      "trans": [
+        "你给了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "copa",
+      "trans": [
+        "杯子",
+        "酒杯",
+        "奖杯"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "quedarte",
+      "trans": [
+        "留下（你）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "seguros",
+      "trans": [
+        "安全的",
+        "确定的",
+        "保险（复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "destruir",
+      "trans": [
+        "摧毁，破坏"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "bienvenidos",
+      "trans": [
+        "欢迎（复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "llevan",
+      "trans": [
+        "他们带着/穿着"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "jerry",
+      "trans": [
+        "杰瑞（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "ponga",
+      "trans": [
+        "我/他放（虚拟式/命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "lados",
+      "trans": [
+        "侧面",
+        "方向（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "acceso",
+      "trans": [
+        "入口",
+        "进入",
+        "访问"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "parker",
+      "trans": [
+        "帕克（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "intentar",
+      "trans": [
+        "试图，尝试"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "trajo",
+      "trans": [
+        "他/她带来了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "desastre",
+      "trans": [
+        "灾难"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "deber",
+      "trans": [
+        "应该",
+        "欠",
+        "责任"
+      ],
+      "pos": "v./n."
+    },
+    {
+      "name": "herida",
+      "trans": [
+        "伤口",
+        "受伤的（阴性）"
+      ],
+      "pos": "n./adj."
+    },
+    {
+      "name": "débil",
+      "trans": [
+        "虚弱的",
+        "弱的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "naturaleza",
+      "trans": [
+        "自然",
+        "本性"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "luchar",
+      "trans": [
+        "奋斗",
+        "斗争"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "extraña",
+      "trans": [
+        "奇怪的（阴性）",
+        "想念"
+      ],
+      "pos": "adj./v."
+    },
+    {
+      "name": "encontraste",
+      "trans": [
+        "你找到了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "vieron",
+      "trans": [
+        "他们看到了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "llámame",
+      "trans": [
+        "给我打电话"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "imagen",
+      "trans": [
+        "图像",
+        "形象"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "pan",
+      "trans": [
+        "面包"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "refieres",
+      "trans": [
+        "你指的是"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "clientes",
+      "trans": [
+        "客户（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "varios",
+      "trans": [
+        "几个，一些（复数）"
+      ],
+      "pos": "adj./pron."
+    },
+    {
+      "name": "show",
+      "trans": [
+        "演出，节目（英语借词）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "auxilio",
+      "trans": [
+        "救助，援助"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "oyes",
+      "trans": [
+        "你听见"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "siguen",
+      "trans": [
+        "他们继续"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "sentado",
+      "trans": [
+        "坐着的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "saliendo",
+      "trans": [
+        "正在出去"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "responsable",
+      "trans": [
+        "负责的",
+        "负责人"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "olvidado",
+      "trans": [
+        "被遗忘的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "quedó",
+      "trans": [
+        "他/她留下了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "permite",
+      "trans": [
+        "允许"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "aquella",
+      "trans": [
+        "那个（阴性，远的）"
+      ],
+      "pos": "pron./adj."
+    },
+    {
+      "name": "puse",
+      "trans": [
+        "我放了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "sonido",
+      "trans": [
+        "声音"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "quiso",
+      "trans": [
+        "他/她想要（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "escrito",
+      "trans": [
+        "书面文件",
+        "写过的"
+      ],
+      "pos": "n./part."
+    },
+    {
+      "name": "carro",
+      "trans": [
+        "汽车",
+        "马车（拉美）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "preciosa",
+      "trans": [
+        "珍贵的",
+        "漂亮的（阴性）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "muestra",
+      "trans": [
+        "样品",
+        "展示",
+        "他展示"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "bastardo",
+      "trans": [
+        "私生子",
+        "混蛋（粗俗）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "restaurante",
+      "trans": [
+        "餐馆"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "huevos",
+      "trans": [
+        "鸡蛋（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "fantasma",
+      "trans": [
+        "幽灵，鬼"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "mismos",
+      "trans": [
+        "同样的（复数）"
+      ],
+      "pos": "adj./pron."
+    },
+    {
+      "name": "profesional",
+      "trans": [
+        "专业的",
+        "专业人士"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "amas",
+      "trans": [
+        "你爱",
+        "主妇（复数）"
+      ],
+      "pos": "v./n."
+    },
+    {
+      "name": "entero",
+      "trans": [
+        "整个的",
+        "完整的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "películas",
+      "trans": [
+        "电影（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "cerrado",
+      "trans": [
+        "关闭的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "dedos",
+      "trans": [
+        "手指（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "sigan",
+      "trans": [
+        "你们继续（命令式/虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "dueño",
+      "trans": [
+        "主人",
+        "老板"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "cuchillo",
+      "trans": [
+        "刀"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "turno",
+      "trans": [
+        "轮班",
+        "次序"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tormenta",
+      "trans": [
+        "暴风雨"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "caray",
+      "trans": [
+        "哎呀！天哪！"
+      ],
+      "pos": "interj."
+    },
+    {
+      "name": "abierto",
+      "trans": [
+        "开着的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "quede",
+      "trans": [
+        "我/他留下（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "verdadera",
+      "trans": [
+        "真正的（阴性）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "mato",
+      "trans": [
+        "我杀"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "doc",
+      "trans": [
+        "医生（doctor 的昵称）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "playa",
+      "trans": [
+        "海滩"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "km",
+      "trans": [
+        "公里（kilómetro 缩写）"
+      ],
+      "pos": "n./abrev."
+    },
+    {
+      "name": "victoria",
+      "trans": [
+        "胜利"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "primo",
+      "trans": [
+        "堂/表兄弟"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "oíste",
+      "trans": [
+        "你听见了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "lisa",
+      "trans": [
+        "光滑的（阴性）",
+        "丽莎（人名）"
+      ],
+      "pos": "adj./n.pr."
+    },
+    {
+      "name": "interior",
+      "trans": [
+        "内部的",
+        "内陆",
+        "内心"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "hechos",
+      "trans": [
+        "事实",
+        "事件（复数）",
+        "做过的"
+      ],
+      "pos": "n./part."
+    },
+    {
+      "name": "piedra",
+      "trans": [
+        "石头"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "jodido",
+      "trans": [
+        "该死的",
+        "糟糕的（粗俗）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "militar",
+      "trans": [
+        "军事的",
+        "军人"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "computadora",
+      "trans": [
+        "电脑（拉美）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "encantaría",
+      "trans": [
+        "会很高兴（条件式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "siga",
+      "trans": [
+        "继续（虚拟式/命令式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "silla",
+      "trans": [
+        "椅子"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "movimiento",
+      "trans": [
+        "运动",
+        "移动"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "momentos",
+      "trans": [
+        "时刻（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "familiar",
+      "trans": [
+        "家庭的",
+        "亲戚"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "apartamento",
+      "trans": [
+        "公寓"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "disparar",
+      "trans": [
+        "射击"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tesoro",
+      "trans": [
+        "宝藏",
+        "宝贝"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "perfecta",
+      "trans": [
+        "完美的（阴性）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "refiero",
+      "trans": [
+        "我指的是"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "motivo",
+      "trans": [
+        "原因，理由",
+        "动机"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "dará",
+      "trans": [
+        "他/她将给"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "nuevas",
+      "trans": [
+        "新的（阴性复数）",
+        "消息"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "mr",
+      "trans": [
+        "先生（mister 缩写）"
+      ],
+      "pos": "n./abrev."
+    },
+    {
+      "name": "querer",
+      "trans": [
+        "想要",
+        "爱"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "matarlo",
+      "trans": [
+        "杀他"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "valiente",
+      "trans": [
+        "勇敢的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "víctima",
+      "trans": [
+        "受害者"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tendrán",
+      "trans": [
+        "他们将拥有"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "estúpida",
+      "trans": [
+        "愚蠢的（阴性）",
+        "蠢女人"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "envió",
+      "trans": [
+        "他/她寄了/发了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "steve",
+      "trans": [
+        "史蒂夫（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "encantado",
+      "trans": [
+        "很高兴（认识你）"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "diario",
+      "trans": [
+        "每日的",
+        "日报",
+        "日记"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "abran",
+      "trans": [
+        "你们打开（命令式/虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "sentí",
+      "trans": [
+        "我感觉到了",
+        "抱歉"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "autobús",
+      "trans": [
+        "公共汽车"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "traído",
+      "trans": [
+        "带来的"
+      ],
+      "pos": "part."
+    },
+    {
+      "name": "casas",
+      "trans": [
+        "房子（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "apúrate",
+      "trans": [
+        "快点"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "encuentras",
+      "trans": [
+        "你找到"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "descanso",
+      "trans": [
+        "休息",
+        "休息日",
+        "我休息"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "sheriff",
+      "trans": [
+        "治安官（英语借词）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "mulder",
+      "trans": [
+        "马尔德（人名/姓氏）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "mueve",
+      "trans": [
+        "移动"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "inglaterra",
+      "trans": [
+        "英格兰",
+        "英国"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "quieto",
+      "trans": [
+        "安静的",
+        "静止的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "carl",
+      "trans": [
+        "卡尔（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "matarte",
+      "trans": [
+        "杀你"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "calles",
+      "trans": [
+        "街道（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tamaño",
+      "trans": [
+        "尺寸，大小"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "colegio",
+      "trans": [
+        "学校",
+        "学院"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "usando",
+      "trans": [
+        "正在使用"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "cabo",
+      "trans": [
+        "末端",
+        "军士",
+        "海角"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "video",
+      "trans": [
+        "视频",
+        "录像"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "toques",
+      "trans": [
+        "你触摸（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pelota",
+      "trans": [
+        "球"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "yendo",
+      "trans": [
+        "正在去"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "directo",
+      "trans": [
+        "直接的",
+        "直播"
+      ],
+      "pos": "adj./adv."
+    },
+    {
+      "name": "termine",
+      "trans": [
+        "我/他结束（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "vivos",
+      "trans": [
+        "活着的（复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "sombrero",
+      "trans": [
+        "帽子"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tomé",
+      "trans": [
+        "我拿了/喝了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "estudio",
+      "trans": [
+        "学习",
+        "书房",
+        "研究",
+        "我学习"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "grave",
+      "trans": [
+        "严重的",
+        "重大的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "protección",
+      "trans": [
+        "保护"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "secretos",
+      "trans": [
+        "秘密（复数）"
+      ],
+      "pos": "n./adj."
+    },
+    {
+      "name": "perdiendo",
+      "trans": [
+        "正在失去"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pecho",
+      "trans": [
+        "胸",
+        "胸口"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "sepas",
+      "trans": [
+        "你知道（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "enferma",
+      "trans": [
+        "生病的（阴性）",
+        "女病人"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "cuesta",
+      "trans": [
+        "山坡",
+        "花费",
+        "斜坡"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "negros",
+      "trans": [
+        "黑色的（复数）",
+        "黑人"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "estrellas",
+      "trans": [
+        "星星（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "lago",
+      "trans": [
+        "湖"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "clases",
+      "trans": [
+        "课",
+        "班级（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "b",
+      "trans": [
+        "字母 B"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "obviamente",
+      "trans": [
+        "显然"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "inmediato",
+      "trans": [
+        "立即的",
+        "附近的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "modos",
+      "trans": [
+        "方式（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "irás",
+      "trans": [
+        "你将去"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "robo",
+      "trans": [
+        "抢劫",
+        "偷窃",
+        "我偷"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "mataré",
+      "trans": [
+        "我将杀"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "seria",
+      "trans": [
+        "严肃的（阴性）",
+        "也作 sería（ser 条件式）的误拼"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "laura",
+      "trans": [
+        "劳拉（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "apoyo",
+      "trans": [
+        "支持",
+        "我支持"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "cerrar",
+      "trans": [
+        "关闭"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "imagino",
+      "trans": [
+        "我想象"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "amenaza",
+      "trans": [
+        "威胁",
+        "他威胁"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "toque",
+      "trans": [
+        "触摸",
+        "风格",
+        "我触摸"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "larry",
+      "trans": [
+        "拉里（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "saca",
+      "trans": [
+        "取出",
+        "拿出"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "viernes",
+      "trans": [
+        "星期五"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "hayan",
+      "trans": [
+        "他们有（虚拟式完成时助动词）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "roto",
+      "trans": [
+        "破碎的，坏的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "lucy",
+      "trans": [
+        "露西（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "piloto",
+      "trans": [
+        "飞行员",
+        "驾驶员"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "marca",
+      "trans": [
+        "品牌",
+        "痕迹",
+        "他标记"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "combate",
+      "trans": [
+        "战斗",
+        "搏斗"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "hablé",
+      "trans": [
+        "我说了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "manejar",
+      "trans": [
+        "驾驶",
+        "管理",
+        "操作（拉美）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "sección",
+      "trans": [
+        "部分",
+        "部门",
+        "栏目"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "profundo",
+      "trans": [
+        "深的",
+        "深刻的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "tantos",
+      "trans": [
+        "这么多（复数）"
+      ],
+      "pos": "adj./pron."
+    },
+    {
+      "name": "conocía",
+      "trans": [
+        "我/他认识（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "serie",
+      "trans": [
+        "系列",
+        "连续剧"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "ed",
+      "trans": [
+        "埃德（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "contrato",
+      "trans": [
+        "合同"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "americano",
+      "trans": [
+        "美洲的",
+        "美国的",
+        "美国人"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "paseo",
+      "trans": [
+        "散步",
+        "大道"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "aviones",
+      "trans": [
+        "飞机（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "balas",
+      "trans": [
+        "子弹（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "repente",
+      "trans": [
+        "突然（用于 de repente 短语）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "cambia",
+      "trans": [
+        "改变"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tropas",
+      "trans": [
+        "军队（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "llevará",
+      "trans": [
+        "他/她将带走"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "uso",
+      "trans": [
+        "使用",
+        "我使用"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "pudiste",
+      "trans": [
+        "你能够（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "detener",
+      "trans": [
+        "阻止",
+        "逮捕"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "susan",
+      "trans": [
+        "苏珊（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "sabia",
+      "trans": [
+        "聪明的",
+        "博学的",
+        "我（曾）知道"
+      ],
+      "pos": "adj./v."
+    },
+    {
+      "name": "llegué",
+      "trans": [
+        "我到达了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "negra",
+      "trans": [
+        "黑色的（阴性）",
+        "黑人女性"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "decidido",
+      "trans": [
+        "果断的",
+        "决定了的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "comienza",
+      "trans": [
+        "开始"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "distancia",
+      "trans": [
+        "距离"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "éramos",
+      "trans": [
+        "我们是（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "murieron",
+      "trans": [
+        "他们死了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "averiguar",
+      "trans": [
+        "查明，弄清"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "actuar",
+      "trans": [
+        "行动",
+        "表演"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "quedo",
+      "trans": [
+        "我留下",
+        "安静的"
+      ],
+      "pos": "v./adj."
+    },
+    {
+      "name": "pulso",
+      "trans": [
+        "脉搏",
+        "手腕"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "aguanta",
+      "trans": [
+        "忍受",
+        "坚持"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "oficiales",
+      "trans": [
+        "官方的",
+        "军官（复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "llamaba",
+      "trans": [
+        "名叫",
+        "打电话（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "enemigos",
+      "trans": [
+        "敌人（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "saldrá",
+      "trans": [
+        "他/她将出去"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "preocupado",
+      "trans": [
+        "担心的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "elección",
+      "trans": [
+        "选择",
+        "选举"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "sobrevivir",
+      "trans": [
+        "幸存，生存"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "bordo",
+      "trans": [
+        "船边",
+        "船舷"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "sujeto",
+      "trans": [
+        "主体",
+        "家伙",
+        "固定的"
+      ],
+      "pos": "n./adj./part."
+    },
+    {
+      "name": "pacientes",
+      "trans": [
+        "病人",
+        "耐心的（复数）"
+      ],
+      "pos": "n./adj."
+    },
+    {
+      "name": "disculpen",
+      "trans": [
+        "请原谅（敬称复数）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "época",
+      "trans": [
+        "时代",
+        "时期"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "entró",
+      "trans": [
+        "他/她进入了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pesar",
+      "trans": [
+        "称重",
+        "后悔",
+        "遗憾"
+      ],
+      "pos": "v./n."
+    },
+    {
+      "name": "habló",
+      "trans": [
+        "他/她说了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "walter",
+      "trans": [
+        "沃尔特（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "vender",
+      "trans": [
+        "卖"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "piensan",
+      "trans": [
+        "他们想"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ex",
+      "trans": [
+        "前（前缀）",
+        "前任"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "gratis",
+      "trans": [
+        "免费"
+      ],
+      "pos": "adv./adj."
+    },
+    {
+      "name": "desapareció",
+      "trans": [
+        "消失了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "empleo",
+      "trans": [
+        "工作",
+        "就业",
+        "我使用"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "llamé",
+      "trans": [
+        "我叫了",
+        "打了电话"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "conocen",
+      "trans": [
+        "他们认识"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "cerdo",
+      "trans": [
+        "猪",
+        "猪肉"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "puedan",
+      "trans": [
+        "他们能（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "comprendo",
+      "trans": [
+        "我理解"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tomo",
+      "trans": [
+        "我拿/喝",
+        "卷，册"
+      ],
+      "pos": "v./n."
+    },
+    {
+      "name": "termina",
+      "trans": [
+        "结束"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "aléjate",
+      "trans": [
+        "走开，离远点"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "busco",
+      "trans": [
+        "我寻找"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "contento",
+      "trans": [
+        "高兴的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "date",
+      "trans": [
+        "给自己（命令式）",
+        "日期"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "tumba",
+      "trans": [
+        "坟墓",
+        "推倒"
+      ],
+      "pos": "n./v."
+    },
+    {
+      "name": "matt",
+      "trans": [
+        "马特（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "huellas",
+      "trans": [
+        "脚印",
+        "痕迹（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "cuerpos",
+      "trans": [
+        "身体",
+        "尸体（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "absoluto",
+      "trans": [
+        "绝对的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "pide",
+      "trans": [
+        "请求",
+        "点餐"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "kent",
+      "trans": [
+        "肯特（人名/姓氏）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "dura",
+      "trans": [
+        "硬的（阴性）",
+        "持续"
+      ],
+      "pos": "adj./v."
+    },
+    {
+      "name": "descansar",
+      "trans": [
+        "休息"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "respuestas",
+      "trans": [
+        "回答（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "propiedad",
+      "trans": [
+        "财产",
+        "房产",
+        "特性"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "llamando",
+      "trans": [
+        "正在打电话/叫"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "dormido",
+      "trans": [
+        "睡着的"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "castillo",
+      "trans": [
+        "城堡"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "china",
+      "trans": [
+        "中国",
+        "瓷器"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "datos",
+      "trans": [
+        "数据",
+        "资料（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "torre",
+      "trans": [
+        "塔",
+        "塔楼"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "robar",
+      "trans": [
+        "偷，抢劫"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "americanos",
+      "trans": [
+        "美国的",
+        "美国人（复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "malos",
+      "trans": [
+        "坏的（复数）"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "botella",
+      "trans": [
+        "瓶子"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "aquellos",
+      "trans": [
+        "那些（远的，复数）"
+      ],
+      "pos": "pron./adj."
+    },
+    {
+      "name": "últimamente",
+      "trans": [
+        "最近，近来"
+      ],
+      "pos": "adv."
+    },
+    {
+      "name": "testigo",
+      "trans": [
+        "证人",
+        "目击者"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "s",
+      "trans": [
+        "字母 S"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "presento",
+      "trans": [
+        "我介绍"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "periódico",
+      "trans": [
+        "报纸"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "kate",
+      "trans": [
+        "凯特（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "juez",
+      "trans": [
+        "法官"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "historias",
+      "trans": [
+        "故事",
+        "历史（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "gustaba",
+      "trans": [
+        "曾喜欢"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "créeme",
+      "trans": [
+        "相信我"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "necesitar",
+      "trans": [
+        "需要"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "esquina",
+      "trans": [
+        "角落",
+        "街角"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "millas",
+      "trans": [
+        "英里（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "llamadas",
+      "trans": [
+        "电话",
+        "呼叫（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "fuente",
+      "trans": [
+        "喷泉",
+        "来源",
+        "源头"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "conocemos",
+      "trans": [
+        "我们认识"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "techo",
+      "trans": [
+        "天花板",
+        "屋顶"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "genio",
+      "trans": [
+        "天才",
+        "脾气"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "alerta",
+      "trans": [
+        "警惕的",
+        "警报"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "ideas",
+      "trans": [
+        "想法（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tomas",
+      "trans": [
+        "你拿/喝",
+        "镜头"
+      ],
+      "pos": "v./n."
+    },
+    {
+      "name": "olvidar",
+      "trans": [
+        "忘记"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "menor",
+      "trans": [
+        "较小的",
+        "未成年人"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "droga",
+      "trans": [
+        "毒品",
+        "药物"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "explicar",
+      "trans": [
+        "解释"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "abierta",
+      "trans": [
+        "开着的（阴性）"
+      ],
+      "pos": "adj./part."
+    },
+    {
+      "name": "privado",
+      "trans": [
+        "私人的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "miembros",
+      "trans": [
+        "成员",
+        "肢体（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "joey",
+      "trans": [
+        "乔伊（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "nacional",
+      "trans": [
+        "国家的",
+        "国内的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "gustó",
+      "trans": [
+        "曾喜欢（过去）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "ross",
+      "trans": [
+        "罗斯（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "discutir",
+      "trans": [
+        "争论",
+        "讨论"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "evidencia",
+      "trans": [
+        "证据"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "detalles",
+      "trans": [
+        "细节（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "c",
+      "trans": [
+        "字母 C"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tardes",
+      "trans": [
+        "下午（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "tomaré",
+      "trans": [
+        "我将拿/喝"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "presente",
+      "trans": [
+        "现在的",
+        "出席的",
+        "礼物"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "scott",
+      "trans": [
+        "斯科特（人名）"
+      ],
+      "pos": "n.pr."
+    },
+    {
+      "name": "criminal",
+      "trans": [
+        "犯罪的",
+        "罪犯"
+      ],
+      "pos": "adj./n."
+    },
+    {
+      "name": "premio",
+      "trans": [
+        "奖品",
+        "奖金"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "vuelvas",
+      "trans": [
+        "你回来（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "siéntese",
+      "trans": [
+        "请坐（敬称）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "viniste",
+      "trans": [
+        "你来了"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "recibir",
+      "trans": [
+        "收到",
+        "接待"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "mires",
+      "trans": [
+        "你看（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "teniendo",
+      "trans": [
+        "正在有"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "huele",
+      "trans": [
+        "闻起来"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "hables",
+      "trans": [
+        "你说话（虚拟式）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "guardias",
+      "trans": [
+        "警卫（复数）"
+      ],
+      "pos": "n."
+    },
+    {
+      "name": "enamorado",
+      "trans": [
+        "恋爱中的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "cuidar",
+      "trans": [
+        "照顾",
+        "小心"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "pocos",
+      "trans": [
+        "很少的",
+        "少数（复数）"
+      ],
+      "pos": "adj./pron."
+    },
+    {
+      "name": "perdone",
+      "trans": [
+        "请原谅（敬称）"
+      ],
+      "pos": "v."
+    },
+    {
+      "name": "natural",
+      "trans": [
+        "自然的",
+        "天然的"
+      ],
+      "pos": "adj."
+    },
+    {
+      "name": "caballos",
+      "trans": [
+        "马（复数）"
+      ],
+      "pos": "n."
+    }
+  ]
+}

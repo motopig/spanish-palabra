@@ -1,0 +1,91 @@
+[
+  {
+    "id": "es-core",
+    "name": "西班牙语核心词",
+    "description": "约 250 个最常用的西班牙语高频词，含 IPA 音标、词性与中文释义",
+    "category": "es-core",
+    "tags": [
+      "core",
+      "beginner"
+    ],
+    "language": "es",
+    "languageCategory": "es-ES",
+    "wordCount": 256,
+    "file": "/dicts/es-core.json"
+  },
+  {
+    "id": "es-a1",
+    "name": "西班牙语 A1",
+    "description": "CEFR A1 级高频词 1000 个 · 中文释义 + 词性",
+    "category": "cefr",
+    "tags": [
+      "cefr",
+      "a1",
+      "beginner"
+    ],
+    "language": "es",
+    "languageCategory": "es-ES",
+    "wordCount": 1000,
+    "file": "/dicts/es-a1.json"
+  },
+  {
+    "id": "es-a2",
+    "name": "西班牙语 A2",
+    "description": "CEFR A2 级高频词 1000 个 · 中文释义 + 词性",
+    "category": "cefr",
+    "tags": [
+      "cefr",
+      "a2",
+      "beginner"
+    ],
+    "language": "es",
+    "languageCategory": "es-ES",
+    "wordCount": 1000,
+    "file": "/dicts/es-a2.json"
+  },
+  {
+    "id": "es-b1",
+    "name": "西班牙语 B1",
+    "description": "CEFR B1 级高频词 1000 个 · 中文释义 + 词性",
+    "category": "cefr",
+    "tags": [
+      "cefr",
+      "b1",
+      "intermediate"
+    ],
+    "language": "es",
+    "languageCategory": "es-ES",
+    "wordCount": 1000,
+    "file": "/dicts/es-b1.json"
+  },
+  {
+    "id": "es-b2",
+    "name": "西班牙语 B2",
+    "description": "CEFR B2 级高频词 1000 个 · 中文释义 + 词性",
+    "category": "cefr",
+    "tags": [
+      "cefr",
+      "b2",
+      "intermediate"
+    ],
+    "language": "es",
+    "languageCategory": "es-ES",
+    "wordCount": 1000,
+    "file": "/dicts/es-b2.json"
+  },
+  {
+    "id": "es-c1",
+    "name": "西班牙语 C1",
+    "description": "CEFR C1 级高频词 1000 个 · 中文释义 + 词性",
+    "category": "cefr",
+    "tags": [
+      "cefr",
+      "c1",
+      "advanced"
+    ],
+    "language": "es",
+    "languageCategory": "es-ES",
+    "wordCount": 1000,
+    "file": "/dicts/es-c1.json"
+  }
+]

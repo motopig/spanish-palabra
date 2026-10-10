@@ -1,0 +1,1004 @@
+# CEFR A1 高频词
+# source: realrentao/spanish-vocabulary-list@main data/levels/A1.js
+# upstream license: 未声明（详见 README「词库来源与已知问题」）
+# 列: name ⇥ trans(释义，；分隔) ⇥ phonetic ⇥ pos
+que	那个；…的；比		pron./conj.
+de	的；从；关于		prep.
+no	不，没有		adv.
+a	到；向；给		prep.
+la	定冠词（阴性单数）		art.
+el	定冠词（阳性单数）		art.
+es	是（ser 的第三人称单数）		v.
+y	和，与		conj.
+en	在…里；在（时间/地点）		prep.
+lo	他/它（宾格）；中性冠词		pron./art.
+un	一个（阳性）		art.
+por	为了；因为；通过；每		prep.
+qué	什么；多么		pron./interj.
+me	我（宾格/与格）		pron.
+una	一个（阴性）		art.
+te	你（宾格/与格）		pron.
+los	定冠词（阳性复数）		art.
+se	自复代词；被动		pron.
+con	和…一起；用		prep.
+para	为了；对于；前往		prep.
+mi	我的		adj.
+está	在；处于（estar 第三人称单数）		v.
+si	如果；是否		conj.
+bien	好；良好		adv./adj.
+pero	但是		conj.
+yo	我（主格）		pron.
+eso	那个（中性）		pron.
+las	定冠词（阴性复数）		art.
+sí	是；是的；自己		adv./pron.
+su	他的/她的/您的/他们的		adj.
+tu	你的		adj.
+aquí	这里		adv.
+del	de+el 的缩合：的；从		prep.
+al	a+el 的缩合：到；向		prep.
+como	像；如同；因为		adv./conj.
+le	他/她/您（与格）		pron.
+más	更；更多；加		adv./adj.
+esto	这个（中性）		pron.
+ya	已经；马上		adv.
+todo	全部；一切		pron./adj.
+esta	这个（阴性）		adj.
+vamos	我们去；走吧（ir 复数第一人称）		v.
+muy	非常		adv.
+hay	有（存在，无人称）		v.
+ahora	现在		adv.
+algo	某事；某物		pron.
+estoy	我在；我处于（estar 第一人称单数）		v.
+tengo	我有（tener 第一人称单数）		v.
+nos	我们（宾格/与格）		pron.
+tú	你（主格）		pron.
+nada	没有什么；一点也不		pron.
+cuando	当…的时候		conj./adv.
+ha	已经（haber 第三人称单数，完成时助动词）		v.
+este	这个（阳性）		adj.
+sé	我知道（saber 第一人称单数）		v.
+estás	你在（estar 第二人称单数）		v.
+así	这样；如此		adv.
+puedo	我能（poder 第一人称单数）		v.
+cómo	怎样；如何		adv.
+quiero	我想要；我爱（querer 第一人称单数）		v.
+sólo	只，仅仅		adv.
+soy	我是（ser 第一人称单数）		v.
+tiene	他有（tener 第三人称单数）		v.
+gracias	谢谢		n.
+o	或者；或		conj.
+él	他（主格）		pron.
+bueno	好的；善良的		adj.
+fue	曾是；去了（ser/ir 第三人称单数过去式）		v.
+ser	是；成为		v.
+hacer	做；制造		v.
+son	他们是（ser 复数第三人称）		v.
+todos	所有人；全部		pron./adj.
+era	曾是（ser 过去未完成第三人称单数）		v.
+eres	你是（ser 第二人称单数）		v.
+vez	次；回；时候		n.
+tienes	你有（tener 第二人称单数）		v.
+creo	我认为；我相信（creer 第一人称单数）		v.
+ella	她（主格）		pron.
+he	我已经（haber 第一人称单数，完成时助动词）		v.
+ese	那个（阳性）		adj.
+voy	我去（ir 第一人称单数）		v.
+puede	他能；可以（poder 第三人称单数）		v.
+sabes	你知道（saber 第二人称单数）		v.
+hola	你好		interj.
+sus	他们的/她们的/您的（复数）		adj.
+porque	因为		conj.
+dios	上帝；神		n.
+quién	谁		pron.
+nunca	从不；永不		adv.
+dónde	在哪里		adv.
+quieres	你想要（querer 第二人称单数）		v.
+casa	房子；家		n.
+favor	恩惠；帮忙		n.
+esa	那个（阴性）		adj.
+dos	二		num.
+tan	如此；这么		adv.
+señor	先生；男士		n.
+tiempo	时间；天气		n.
+verdad	真相；事实；真的		n.
+estaba	曾在（estar 过去未完成第三人称单数）		v.
+mejor	更好的；最好；更好		adj./adv.
+están	他们在（estar 复数第三人称）		v.
+va	他去（ir 第三人称单数）		v.
+hombre	男人；人		n.
+usted	您		pron.
+mucho	许多；非常		adj./adv.
+hace	他做（hacer 第三人称单数）		v.
+entonces	那么；那时		adv.
+siento	我感到；抱歉（sentir 第一人称单数）		v.
+tenemos	我们有（tener 复数第一人称）		v.
+puedes	你能（poder 第二人称单数）		v.
+ahí	那里		adv.
+ti	你（介词后宾格）		pron.
+vida	生命；生活		n.
+ver	看；看见		v.
+alguien	某人		pron.
+sr	先生（señor 缩写）		n.
+hasta	直到；甚至		prep./adv.
+sin	没有；无		prep.
+mí	我（介词后宾格）		pron.
+solo	独自的；只		adj./adv.
+años	年（复数）		n.
+sobre	在…上面；关于		prep.
+decir	说；告诉		v.
+uno	一；一个人		num./pron.
+siempre	总是		adv.
+oh	哦；啊		interj.
+ir	去		v.
+cosas	东西；事情（复数）		n.
+también	也		adv.
+antes	以前；在…之前		adv.
+has	你已经（haber 第二人称单数，完成时助动词）		v.
+ni	也不；甚至不		conj.
+mis	我的（复数）		adj.
+día	天；白天		n.
+estar	在；处于（状态）		v.
+estamos	我们在（estar 复数第一人称）		v.
+noche	夜晚		n.
+nadie	没有人		pron.
+otra	另一个（阴性）		adj.
+quiere	他想要；他爱（querer 第三人称单数）		v.
+parece	看起来（parecer 第三人称单数）		v.
+nosotros	我们（主格）		pron.
+poco	少的；一点点		adj./adv.
+padre	父亲；爸爸		n.
+trabajo	工作；我工作（trabajar 第一人称单数）		n./v.
+gente	人们		n.
+mira	看（mirar 第三人称单数/命令式）		v.
+vas	你去（ir 第二人称单数）		v.
+sea	是（ser 虚拟式）		v.
+les	他们/她们/您们（与格）		pron.
+donde	在…地方（关系副词）		adv.
+mismo	相同的；自己		adj./pron.
+hecho	做的（hacer 过去分词）；事实		part./n.
+ellos	他们（主格）		pron.
+dijo	他说了（decir 第三人称单数过去式）		v.
+pasa	发生；经过（pasar 第三人称单数）		v.
+dinero	钱		n.
+hijo	儿子		n.
+tal	这样的		adj.
+otro	另一个（阳性）		adj.
+hablar	说；讲话		v.
+seguro	安全的；确定的；当然		adj./adv.
+claro	清楚的；明亮的；当然		adj./adv.
+estas	这些（阴性复数）		adj.
+lugar	地方		n.
+mundo	世界		n.
+amigo	朋友（男）		n.
+espera	等待（esperar 第三人称单数）；期望		v./n.
+mierda	屎；该死（粗话）		n.
+han	他们已经（haber 复数第三人称，完成时助动词）		v.
+tus	你的（复数）		adj.
+sabe	他知道（saber 第三人称单数）		v.
+después	之后		adv.
+momento	时刻；片刻		n.
+desde	从；自从		prep.
+fuera	在外面		adv.
+cosa	东西；事情		n.
+tipo	类型；家伙		n.
+mañana	明天；早晨		n./adv.
+podemos	我们能（poder 复数第一人称）		v.
+dije	我说了（decir 第一人称单数过去式）		v.
+gran	大的（grande 短尾形式）		adj.
+necesito	我需要（necesitar 第一人称单数）		v.
+estado	处于（estar 过去分词）；状态		part./n.
+podría	他可能；可以（poder 条件式第三人称单数）		v.
+acuerdo	协议；同意（acordar 第一人称单数）		n./v.
+papá	爸爸		n.
+tener	有；拥有		v.
+dice	他说（decir 第三人称单数）		v.
+mío	我的（名词性物主）		pron.
+crees	你认为（creer 第二人称单数）		v.
+buena	好的（阴性）		adj.
+gusta	使喜欢（gustar 第三人称单数）		v.
+nuestro	我们的（阳性）		adj.
+nuevo	新的（阳性）		adj.
+será	将会是（ser 将来时第三人称单数）		v.
+haciendo	正在做（hacer 副动词）		v.
+días	天（复数）		n.
+nombre	名字		n.
+buen	好的（bueno 短尾形式）		adj.
+había	曾有（haber 过去未完成第三人称单数）		v.
+ven	来！（venir 命令式第二人称）		v.
+tres	三		num.
+menos	更少；减去；除了		adv./prep.
+debe	他应该；欠（deber 第三人称单数）		v.
+tenía	他曾有（tener 过去未完成第三人称单数）		v.
+mal	坏的；糟糕地		adj./adv.
+conmigo	和我一起		pron.
+madre	母亲		n.
+hoy	今天		adv.
+quien	谁；…的人（关系代词）		pron.
+sido	是过（ser 过去分词）		part.
+mamá	妈妈		n.
+tienen	他们有（tener 复数第三人称）		v.
+luego	然后；稍后		adv.
+todas	所有（阴性复数）		pron.
+allí	那里		adv.
+toda	全部的（阴性单数）		adj.
+hora	小时；时间		n.
+mujer	女人；妻子		n.
+visto	看过的（ver 过去分词）		part.
+haces	你做（hacer 第二人称单数）		v.
+importa	重要（importar 第三人称单数）		v.
+contigo	和你一起		pron.
+ve	他看（ver 第三人称单数）；你去！（ir 命令式）		v.
+tarde	下午；晚		n./adv.
+oye	听！嘿（oír 命令式第二人称）		v.
+parte	部分		n.
+haber	有（助动词/存在）		v.
+hombres	男人（复数）		n.
+problema	问题		n.
+mas	但是（=pero，书面语）		conj.
+saber	知道；会		v.
+quería	曾想要（querer 过去未完成第一/第三人称单数）		v.
+aún	还；仍然		adv.
+veces	次（复数）		n.
+nuestra	我们的（阴性）		adj.
+hacerlo	做它（hacer+lo）		v.
+cada	每个		adj.
+hizo	他做了（hacer 第三人称单数过去式）		v.
+veo	我看见（ver 第一人称单数）		v.
+tanto	这么多；如此		adj./adv.
+razón	理由；道理		n.
+ustedes	你们（复数敬称）		pron.
+idea	主意；想法		n.
+esos	那些（阳性复数）		adj.
+van	他们去（ir 复数第三人称）		v.
+quizá	也许		adv.
+debo	我应该（deber 第一人称单数）		v.
+alguna	某个（阴性）		adj.
+cierto	确定的；真实的		adj.
+ud	您（usted 缩写）		pron.
+muerto	死的（morir 过去分词）		part./adj.
+unos	一些（阳性复数）		art.
+estos	这些（阳性复数）		adj.
+salir	出去；离开		v.
+policía	警察；警方		n.
+realmente	真正地；确实		adv.
+demasiado	太多；过分		adj./adv.
+familia	家庭；家人		n.
+pueden	他们能（poder 复数第三人称）		v.
+cabeza	头		n.
+hemos	我们已经（haber 复数第一人称，完成时助动词）		v.
+amigos	朋友（复数）		n.
+chica	女孩；姑娘		n.
+cariño	爱；亲爱的（昵称）		n.
+lado	边；旁边		n.
+allá	那边		adv.
+entre	在…之间；在…之中		prep.
+minutos	分钟（复数）		n.
+digo	我说（decir 第一人称单数）		v.
+algún	某个（阳性短尾形式）		adj.
+serio	严肃的；认真的		adj.
+cuidado	小心；照顾		n.
+pasó	发生了；经过了（pasar 第三人称单数过去式）		v.
+buenas	好的（阴性复数）		adj.
+somos	我们是（ser 复数第一人称）		v.
+amor	爱；爱情		n.
+puerta	门		n.
+ves	你看（ver 第二人称单数）		v.
+vaya	去（ir 虚拟式）；哎呀		v.
+ah	啊		interj.
+suerte	运气		n.
+eh	喂；呃		interj.
+rápido	快的；快速地		adj./adv.
+cuenta	账目；故事；讲述（contar 第三人称单数）		n./v.
+quizás	也许		adv.
+io	哦；嘿（口语叹词/语料片段）		interj.
+esas	那些（阴性复数）		adj.
+pues	那么；因为		conj./adv.
+pasado	过去的（pasar 过去分词）；过去		part./adj./n.
+pensé	我想了（pensar 第一人称单数过去式）		v.
+todavía	还；仍然		adv.
+hermano	兄弟		n.
+debes	你应该（deber 第二人称单数）		v.
+casi	几乎		adv.
+forma	形式；方式		n.
+aqui	这里（aquí 的无重音变体）		adv.
+chico	男孩；小伙子		n.
+ok	好的；行		interj.
+dicho	说过的（decir 过去分词）		part.
+nueva	新的（阴性）		adj.
+sabía	他曾知道（saber 过去未完成第三人称单数）		v.
+muchas	许多（阴性复数）		adj.
+dentro	在里面		adv.
+hice	我做了（hacer 第一人称单数过去式）		v.
+contra	反对；对抗		prep.
+auto	汽车		n.
+camino	路；道路		n.
+ayuda	帮助；他帮助（ayudar 第三人称单数）		n./v.
+primera	第一的（阴性）		adj.
+hacia	朝；向		prep.
+vi	我看见了（ver 第一人称单数过去式）		v.
+miedo	害怕		n.
+adiós	再见		interj.
+primero	第一的；首先		adj./adv.
+debería	应该（deber 条件式第一/第三人称单数）		v.
+poder	能够；权力		v./n.
+niños	孩子（复数）		n.
+sería	将会是（ser 条件式第三人称单数）		v.
+historia	历史；故事		n.
+hey	嘿		interj.
+mientras	当…的时候；同时		conj./adv.
+ciudad	城市		n.
+dijiste	你说了（decir 第二人称单数过去式）		v.
+espero	我希望；我等待（esperar 第一人称单数）		v.
+cuánto	多少		adv./adj.
+esposa	妻子		n.
+pronto	很快；马上		adv.
+chicos	男孩们；孩子们		n.
+cualquier	任何一个		adj.
+viejo	老的；老人		adj./n.
+debemos	我们应该（deber 复数第一人称）		v.
+deja	留下；让（dejar 第三人称单数/命令式）		v.
+año	年		n.
+muerte	死亡		n.
+hablando	正在说（hablar 副动词）		v.
+manos	手（复数）		n.
+da	他给（dar 第三人称单数）		v.
+loco	疯的；疯狂的		adj.
+problemas	问题（复数）		n.
+mano	手		n.
+guerra	战争		n.
+semana	星期；周		n.
+pasar	经过；发生；度过		v.
+vale	值；可以；行（口语）		v./interj.
+cuál	哪一个		pron.
+viene	他来（venir 第三人称单数）		v.
+volver	回来；返回		v.
+toma	拿；喝（tomar 第三人称单数/命令式）		v.
+caso	情况；案件		n.
+agua	水		n.
+haré	我将做（hacer 将来时第一人称单数）		v.
+vete	走吧！（irse 命令式第二人称）		v.
+entiendo	我明白（entender 第一人称单数）		v.
+horas	小时（复数）		n.
+personas	人（复数）		n.
+capitán	船长；队长		n.
+adelante	向前；前进		adv.
+niño	男孩；孩子		n.
+listo	准备好的；聪明的		adj.
+noches	夜晚（复数）		n.
+buenos	好的（阳性复数）		adj.
+iba	曾去（ir 过去未完成第一/第三人称单数）		v.
+juntos	一起的		adj.
+dame	给我（dar+me 命令式）		v.
+único	唯一的		adj.
+déjame	让我；放开我（dejar+me 命令式）		v.
+cerca	近；附近		adv.
+otros	其他的（复数）		adj.
+sigue	继续；跟随（seguir 第三人称单数/命令式）		v.
+grande	大的		adj.
+arriba	在上面		adv.
+jefe	老板；首领		n.
+habla	他说；说话！（hablar 第三人称单数/命令式）		v.
+supongo	我猜想（suponer 第一人称单数）		v.
+manera	方式		n.
+quieren	他们想要（querer 复数第三人称）		v.
+feliz	幸福的；快乐的		adj.
+significa	意思是（significar 第三人称单数）		v.
+sangre	血		n.
+fin	结束；目的		n.
+bajo	低的；在…下面		adj./prep.
+llama	火焰；他叫（llamar 第三人称单数）		v./n.
+venir	来		v.
+morir	死		v.
+importante	重要的		adj.
+hiciste	你做了（hacer 第二人称单数过去式）		v.
+ojos	眼睛（复数）		n.
+escucha	听（escuchar 第三人称单数/命令式）		v.
+entrar	进入		v.
+ningún	没有一个（阳性短尾形式）		adj.
+corazón	心脏；心		n.
+diablos	魔鬼（复数）		n.
+necesitamos	我们需要（necesitar 复数第一人称）		v.
+atrás	在后面		adv.
+durante	在…期间		prep.
+dices	你说（decir 第二人称单数）		v.
+nuestros	我们的（阳性复数）		adj.
+persona	人		n.
+abajo	在下面		adv.
+dr	医生；博士（doctor 缩写）		n.
+hija	女儿		n.
+dejar	留下；让；放弃		v.
+necesita	他需要（necesitar 第三人称单数）		v.
+llegar	到达		v.
+hago	我做（hacer 第一人称单数）		v.
+señora	夫人；女士		n.
+haya	有（haber 虚拟式）		v.
+suficiente	足够的		adj.
+doctor	医生；博士		n.
+gustaría	会喜欢（gustar 条件式）		v.
+tierra	土地；地球；地面		n.
+cara	脸；面孔		n.
+siquiera	甚至；至少		adv.
+genial	极好的；棒极了		adj.
+cree	他认为（creer 第三人称单数）		v.
+supuesto	假定的（suponer 过去分词）；假设		part./n.
+tomar	拿；喝；乘坐		v.
+equipo	队伍；设备		n.
+justo	公正的；正好		adj./adv.
+juego	游戏；比赛		n.
+ninguna	没有一个（阴性）		adj.
+matar	杀死		v.
+cinco	五		num.
+dicen	他们说（decir 复数第三人称）		v.
+amo	我爱（amar 第一人称单数）；主人		v./n.
+cuándo	什么时候（疑问）		adv.
+pequeño	小的		adj.
+algunos	一些（阳性复数）		adj.
+conozco	我认识（conocer 第一人称单数）		v.
+clase	课；班级；种类		n.
+maldito	该死的；可恶的		adj.
+unas	一些（阴性复数）		art.
+muchos	许多（阳性复数）		adj.
+hubiera	假如有（haber 虚拟式过去）		v.
+segundo	第二；秒		num./adj./n.
+aunque	虽然；即使		conj.
+pueda	能（poder 虚拟式）		v.
+dime	告诉我（decir+me 命令式）		v.
+igual	相同的；同样地		adj./adv.
+comida	食物；饭菜		n.
+ay	哎哟；哎呀		interj.
+cuerpo	身体		n.
+encontrar	找到；遇见		v.
+fuerte	强壮的；强烈的		adj.
+vuelta	返回；转弯		n.
+venga	来吧；加油（venir 虚拟式/命令式）		v./interj.
+creer	相信；认为		v.
+realidad	现实		n.
+saben	他们知道（saber 复数第三人称）		v.
+puta	该死的；妓女（粗话）		adj./n.
+deberías	你应该（deber 条件式第二人称）		v.
+pregunta	问题；他问（preguntar 第三人称单数）		n./v.
+fui	我是；我去了（ser/ir 第一人称单数过去式）		v.
+cuatro	四		num.
+sra	夫人（señora 缩写）		n.
+primer	第一的（primero 短尾形式）		adj.
+trabajar	工作		v.
+e	和（y 在 i-/hi- 前的变体）		conj.
+hagas	你做（hacer 虚拟式第二人称）		v.
+alto	高的；大声地		adj./adv.
+maldita	该死的（阴性）		adj.
+comer	吃		v.
+número	数字；号码		n.
+dar	给		v.
+necesitas	你需要（necesitar 第二人称单数）		v.
+john	人名：约翰		n.
+oportunidad	机会		n.
+punto	点；句号		n.
+misma	相同的（阴性）		adj.
+última	最后的（阴性）		adj.
+afuera	在外面		adv.
+mujeres	女人（复数）		n.
+pensar	思考；想		v.
+fueron	他们是；他们去了（ser/ir 复数第三人称过去式）		v.
+difícil	困难的		adj.
+vivir	生活；居住		v.
+paso	步伐；通过；我经过（pasar 第一人称单数）		n./v.
+malo	坏的		adj.
+estabas	你曾在（estar 过去未完成第二人称单数）		v.
+vivo	活的；我生活（vivir 第一人称单数）		adj./v.
+haga	做（hacer 虚拟式/命令式敬称）		v.
+queda	留下；剩下（quedar 第三人称单数）		v.
+hijos	儿子们；孩子们		n.
+mayor	较大的；年长的		adj.
+fiesta	聚会；节日		n.
+hacen	他们做（hacer 复数第三人称）		v.
+medio	一半的；方法；中间		adj./n.
+algunas	一些（阴性复数）		adj.
+basta	够了（bastar 第三人称单数）		v.
+ei	嘿（=ey）		interj.
+arma	武器		n.
+vino	酒；他来了（venir 第三人称单数过去式）		n./v.
+meses	月（复数）		n.
+cuarto	第四；房间		adj./n.
+éste	这个（阳性，带重音）		pron.
+escuela	学校		n.
+esté	在（estar 虚拟式）		v.
+dólares	美元（复数）		n.
+tío	叔叔；舅舅；家伙（口语）		n.
+posible	可能的		adj.
+tuve	我有了（tener 第一人称单数过去式）		v.
+fácil	容易的		adj.
+preocupes	担心（preocuparse 虚拟式第二人称）		v.
+jack	人名：杰克		n.
+luz	光；灯		n.
+eran	曾是（ser 复数第三人称过去未完成）		v.
+carajo	该死（粗话）		interj./n.
+final	最后的；结局		adj./n.
+lista	名单；清单；准备好的（阴性）		n./adj.
+trata	处理；关于（tratar 第三人称单数）		v.
+armas	武器（复数）		n.
+hermana	姐妹		n.
+exactamente	确切地		adv.
+chicas	女孩（复数）		n.
+podía	曾能（poder 过去未完成第一/第三人称单数）		v.
+bastante	相当；足够的		adv./adj.
+seguridad	安全		n.
+pasando	正在发生/经过（pasar 副动词）		v.
+esperando	正在等待（esperar 副动词）		v.
+acá	这里（拉美用法）		adv.
+teléfono	电话		n.
+perro	狗		n.
+fuego	火		n.
+murió	他死了（morir 第三人称单数过去式）		v.
+tampoco	也不		adv.
+sola	独自的（阴性）		adj.
+estuvo	他在过（estar 第三人称单数过去式）		v.
+verte	看你（ver+te）		v.
+iré	我将去（ir 将来时第一人称单数）		v.
+tenido	有过的（tener 过去分词）		part.
+culpa	过错；责任		n.
+veras	真实（仅用于固定搭配）		n.
+adónde	去哪里		adv.
+buscando	正在找（buscar 副动词）		v.
+cuanto	多少；…的（关系词）		adj./adv.
+padres	父母		n.
+paz	和平		n.
+demonios	魔鬼（复数）		n.
+estará	将在（estar 将来时第三人称单数）		v.
+cual	哪一个（关系代词）		pron.
+perdón	原谅；对不起		n./interj.
+asi	这样（así 的无重音变体）		adv.
+jugar	玩；打（球）		v.
+pensando	正在想（pensar 副动词）		v.
+esperar	等待；希望		v.
+sabemos	我们知道（saber 复数第一人称）		v.
+recuerdo	记忆；我记得（recordar 第一人称单数）		n./v.
+par	一对；一双		n.
+joven	年轻的；年轻人		adj./n.
+seguir	继续；跟随		v.
+pueblo	村庄；人民		n.
+tenga	有（tener 虚拟式）		v.
+caballeros	先生们；骑士		n.
+idiota	白痴；愚蠢的		n./adj.
+dio	他给了（dar 第三人称单数过去式）		v.
+minuto	分钟		n.
+bebé	婴儿		n.
+única	唯一的（阴性）		adj.
+lejos	远		adv.
+nuestras	我们的（阴性复数）		adj.
+plan	计划		n.
+pienso	我想（pensar 第一人称单数）		v.
+sentido	感觉；意义；方向		n.
+dormir	睡觉		v.
+digas	你说（decir 虚拟式第二人称）		v.
+palabra	单词；话语		n.
+correcto	正确的		adj.
+control	控制		n.
+vemos	我们看（ver 复数第一人称）		v.
+entiendes	你明白（entender 第二人称单数）		v.
+país	国家		n.
+seis	六		num.
+último	最后的		adj.
+ésta	这个（阴性，带重音）		pron.
+diga	说（decir 虚拟式/命令式敬称）		v.
+podrías	你可能（poder 条件式第二人称）		v.
+pequeña	小的（阴性）		adj.
+cállate	闭嘴（callarse+te 命令式）		v.
+trato	待遇；约定；我对待（tratar 第一人称单数）		n./v.
+rey	国王		n.
+sucede	发生（suceder 第三人称单数）		v.
+sam	人名：山姆		n.
+muchachos	小伙子们；孩子们		n.
+jamás	从不；永不		adv.
+cama	床		n.
+srta	小姐（señorita 缩写）		n.
+ayudar	帮助		v.
+acerca	靠近（acercar 第三人称单数）		v.
+di	我给（dar 过去式）；你说！（decir 命令式）		v.
+cambio	改变；零钱；我换（cambiar 第一人称单数）		n./v.
+falta	缺少；他缺少（faltar 第三人称单数）		n./v.
+hospital	医院		n.
+lleva	他带；穿（llevar 第三人称单数）		v.
+presidente	总统；主席		n.
+mil	一千		num.
+gusto	高兴；口味；我喜欢（gustar 第一人称单数）		n./v.
+conoces	你认识（conocer 第二人称单数）		v.
+diciendo	正在说（decir 副动词）		v.
+os	你们（宾格/与格，西班牙）		pron.
+ido	去了的（ir 过去分词）		part.
+general	一般的；将军		adj./n.
+extraño	奇怪的；陌生的；我想念（extrañar 第一人称单数）		adj./v.
+semanas	周（复数）		n.
+coche	汽车		n.
+peor	更坏的		adj.
+mucha	许多（阴性单数）		adj.
+disculpe	请原谅（disculpar 命令式敬称）		v.
+diré	我将说（decir 将来时第一人称单数）		v.
+anoche	昨晚		adv.
+perder	失去；输		v.
+vámonos	我们走吧（irse+nos 命令式）		v.
+nave	船；飞船		n.
+cielo	天空；天堂；亲爱的（昵称）		n.
+habrá	将有（haber 将来时第三人称单数）		v.
+orden	秩序；命令		n.
+segura	安全的；确定的（阴性）		adj.
+querida	亲爱的（阴性）		adj./n.
+niña	女孩；小姑娘		n.
+michael	人名：迈克尔		n.
+increíble	难以置信的		adj.
+además	此外		adv.
+deben	他们应该（deber 复数第三人称）		v.
+libro	书		n.
+calle	街道		n.
+café	咖啡；咖啡馆		n.
+piensas	你想（pensar 第二人称单数）		v.
+hacemos	我们做（hacer 复数第一人称）		v.
+especial	特别的		adj.
+queremos	我们想要（querer 复数第一人称）		v.
+ia	呀；啊（口语叹词）		interj.
+clark	人名：克拉克		n.
+irme	离开（irse+me）		v.
+perfecto	完美的		adj.
+buscar	寻找		v.
+odio	恨；我恨（odiar 第一人称单数）		n./v.
+piensa	他想（pensar 第三人称单数）		v.
+oficina	办公室		n.
+hablas	你说（hablar 第二人称单数）		v.
+libre	自由的；空闲的		adj.
+agente	代理人；特工		n.
+york	地名：约克		n.
+llamar	叫；打电话		v.
+mala	坏的（阴性）		adj.
+detrás	在后面		adv.
+viste	你看见（ver 第二人称单数过去式）		v.
+dile	告诉他（decir+le 命令式）		v.
+grandes	大的（复数）		adj.
+recuerdas	你记得（recordar 第二人称单数）		v.
+real	真实的；皇家的		adj.
+estaban	曾在（estar 复数第三人称过去未完成）		v.
+mía	我的（阴性）		pron.
+frente	前面；额头		n./adv.
+perdido	丢失的（perder 过去分词）		part.
+llamo	我叫（llamar 第一人称单数）		v.
+muertos	死的；死者（复数）		adj./n.
+millones	百万（复数）		num./n.
+asesino	杀手；杀人的		n./adj.
+sueño	梦；睡眠；我梦见（soñar 第一人称单数）		n./v.
+quisiera	我想要（querer 虚拟式过去/委婉）		v.
+habría	将会有（haber 条件式）		v.
+hará	他将做（hacer 将来时第三人称单数）		v.
+viaje	旅行		n.
+probablemente	很可能		adv.
+peter	人名：彼得		n.
+resto	剩余；其余		n.
+estaré	我将在（estar 将来时第一人称单数）		v.
+maldición	诅咒；该死		n./interj.
+lamento	遗憾；我遗憾（lamentar 第一人称单数）		v./n.
+muchacho	小伙子		n.
+avión	飞机		n.
+ropa	衣服		n.
+fuerza	力量		n.
+llamado	叫做（llamar 过去分词）		part.
+oído	耳朵；听到的（oír 过去分词）		n./part.
+frank	人名：弗兰克		n.
+dado	给的（dar 过去分词）；骰子		part./n.
+encima	在上面		adv.
+negro	黑色的；黑人		adj./n.
+usar	使用		v.
+información	信息		n.
+uds	您们（ustedes 缩写）		pron.
+preguntas	问题（复数）；你问（preguntar 第二人称单数）		n./v.
+tuvo	他有了（tener 第三人称单数过去式）		v.
+secreto	秘密；秘密的		n./adj.
+vuelve	他回来（volver 第三人称单数）		v.
+miren	看（mirar 复数命令式）		v.
+quieras	你想要（querer 虚拟式第二人称）		v.
+haría	会做（hacer 条件式）		v.
+acaba	结束；刚刚（acabar 第三人称单数）		v.
+otras	其他的（阴性复数）		adj.
+incluso	甚至；包括		adv./prep.
+sientes	你感到（sentir 第二人称单数）		v.
+deberíamos	我们应该（deber 条件式复数第一人称）		v.
+haz	做！（hacer 命令式第二人称）		v.
+decirte	告诉你（decir+te）		v.
+boca	嘴		n.
+dolor	疼痛		n.
+baño	浴室；洗澡		n.
+adentro	在里面		adv.
+profesor	教师；教授		n.
+habitación	房间		n.
+daño	伤害；损坏		n.
+tuyo	你的		pron.
+seas	你是（ser 虚拟式第二人称）		v.
+noticias	新闻；消息		n.
+demás	其余的		pron.
+querido	亲爱的		adj.
+duro	硬的；困难的		adj.
+poner	放；放置		v.
+prueba	测试；证据；他尝试（probar 第三人称单数）		n./v.
+mire	请看（mirar 命令式敬称）		v.
+tonto	愚蠢的；傻瓜		adj./n.
+campo	田野；乡村		n.
+siendo	正在是（ser 副动词）		v.
+diez	十		num.
+ése	那个（阳性，带重音）		pron.
+tranquilo	平静的；冷静的		adj.
+asunto	事务；事情		n.
+acabó	结束了（acabar 第三人称单数过去式）		v.
+quédate	留下（quedarse+te 命令式）		v.
+derecho	直的；权利；向右		adj./n./adv.
+placer	快乐；荣幸		n.
+recuerda	记得（recordar 第三人称单数/命令式）		v.
+estuve	我在过（estar 第一人称单数过去式）		v.
+tratando	正在处理/尝试（tratar 副动词）		v.
+ejército	军队		n.
+futuro	未来；未来的		n./adj.
+llevar	带；穿；拿		v.
+compañía	公司；陪伴		n.
+venido	来了的（venir 过去分词）		part.
+listos	准备好的（复数）		adj.
+haremos	我们将做（hacer 将来时复数第一人称）		v.
+sitio	地点；网站		n.
+verlo	看他/它（ver+lo）		v.
+puesto	放的（poner 过去分词）；岗位；摊位		part./n.
+atención	注意；关心		n.
+sino	而是；除了		conj.
+cambiar	改变；换		v.
+error	错误		n.
+blanco	白色的；白色		adj./n.
+raro	奇怪的；罕见的		adj.
+palabras	话语（复数）		n.
+llegó	他到了（llegar 第三人称单数过去式）		v.
+sal	盐；出去！（salir 命令式第二人称）		n./v.
+pase	请进；通行证（pasar 命令式敬称）		v./n.
+mente	头脑；心灵		n.
+sistema	系统		n.
+película	电影		n.
+anda	走；来吧（andar 第三人称单数/命令式）		v.
+ello	它（中性）		pron.
+negocio	生意；商店		n.
+novia	女朋友；新娘		n.
+permiso	许可；借过		n.
+creí	我相信了（creer 第一人称单数过去式）		v.
+suena	听起来（sonar 第三人称单数）		v.
+ocurre	发生（ocurrir 第三人称单数）		v.
+oficial	官方的；官员		adj./n.
+espere	请等（esperar 命令式敬称）		v.
+aire	空气		n.
+george	人名：乔治		n.
+mató	他杀了（matar 第三人称单数过去式）		v.
+harry	人名：哈里		n.
+regresar	返回		v.
+vio	他看见（ver 第三人称单数过去式）		v.
+hazlo	做它（hacer+lo 命令式）		v.
+trasero	后面的；臀部		adj./n.
+grupo	组；群体		n.
+entendido	明白了（entender 过去分词）		part.
+señorita	小姐		n.
+música	音乐		n.
+perra	母狗；贱人（粗话）		n.
+conoce	他认识（conocer 第三人称单数）		v.
+empezar	开始		v.
+siente	他感到（sentir 第三人称单数）		v.
+acabo	我刚刚（acabar 第一人称单数）		v.
+estúpido	愚蠢的		adj.
+diferente	不同的		adj.
+traje	西装；我带来了（traer 第一人称单数过去式）		n./v.
+modo	方式		n.
+james	人名：詹姆斯		n.
+encontré	我找到了（encontrar 第一人称单数过去式）		v.
+mensaje	信息；短信		n.
+llamada	电话；呼叫		n.
+navidad	圣诞节		n.
+eras	你曾是（ser 过去未完成第二人称单数）		v.
+pena	悲伤；遗憾		n.
+largo	长的		adj.
+entra	进入（entrar 第三人称单数/命令式）		v.
+piso	楼层；公寓；我踩（pisar 第一人称单数）		n./v.
+foto	照片		n.
+dijeron	他们说了（decir 复数第三人称过去式）		v.
+médico	医生		n.
+accidente	事故		n.
+fuiste	你是；你去了（ser/ir 第二人称单数过去式）		v.
+imposible	不可能的		adj.
+podríamos	我们可以（poder 条件式复数第一人称）		v.
+línea	线；线路		n.
+propia	自己的（阴性）		adj.
+barco	船		n.
+ganar	赢；赚		v.
+normal	正常的		adj.
+segundos	秒（复数）		n.
+vive	他生活（vivir 第三人称单数）		v.
+mitad	一半		n.
+quiera	想要（querer 虚拟式）		v.
+tras	在…后面；经过		prep.
+decirle	告诉他（decir+le）		v.
+lindo	漂亮的；可爱的		adj.
+funciona	运转；有效（funcionar 第三人称单数）		v.
+programa	节目；程序		n.
+vine	我来了（venir 第一人称单数过去式）		v.
+abre	打开（abrir 第三人称单数/命令式）		v.
+sean	是（ser 虚拟式复数）		v.
+pagar	支付		v.
+fotos	照片（复数）		n.
+centro	中心；市中心		n.
+supone	意味着；假设（suponer 第三人称单数）		v.
+basura	垃圾		n.
+situación	情况；形势		n.
+mejores	更好的（复数）		adj.
+vienen	他们来（venir 复数第三人称）		v.
+encanta	使喜爱（encantar 第三人称单数）		v.
+marido	丈夫		n.
+personal	个人的；人员		adj./n.
+maestro	老师；大师		n.
+hambre	饥饿		n.
+ataque	攻击		n.
+culo	屁股（粗话）		n.
+dale	给他（dar+le 命令式）；行（口语）		v.
+pie	脚		n.
+conseguir	获得；得到		v.
+trabajando	正在工作（trabajar 副动词）		v.
+gracioso	有趣的；滑稽的		adj.
+dejó	他留下了（dejar 第三人称单数过去式）		v.
+pudo	他能了（poder 第三人称单数过去式）		v.
+derecha	右边；右边的		n./adj.
+izquierda	左边；左边的		n./adj.
+próxima	下一个的（阴性）		adj.
+pobre	贫穷的；可怜的人		adj./n.
+respuesta	回答；答案		n.
+tipos	类型；家伙们（复数）		n.
+sentir	感到；遗憾		v.
+tenías	你曾有（tener 过去未完成第二人称单数）		v.
+pude	我能了（poder 第一人称单数过去式）		v.
+darle	给他（dar+le）		v.
+voz	声音		n.
+amiga	朋友（女）		n.
+gustan	使喜欢（gustar 复数第三人称）		v.
+vista	视野；景色		n.
+salvo	除了；安全的		prep./adj.
+loca	疯狂的（阴性）		adj.
+hotel	旅馆；酒店		n.
+hicieron	他们做了（hacer 复数第三人称过去式）		v.
+ten	拿着！（tener 命令式第二人称）		v.
+temo	我害怕（temer 第一人称单数）		v.
+señal	信号；标志		n.
+pelo	头发		n.
+llevo	我带；我穿（llevar 第一人称单数）		v.
+ayer	昨天		adv.
+das	你给（dar 第二人称单数）		v.
+nena	宝贝；女孩（昵称）		n.
+servicio	服务；卫生间		n.
+tren	火车		n.
+tom	人名：汤姆		n.
+bonito	漂亮的；好看的		adj.
+mes	月份		n.
+tendrá	他将有（tener 将来时第三人称单数）		v.
+tendrás	你将有（tener 将来时第二人称单数）		v.
+edad	年龄		n.
+ellas	她们（主格）		pron.
+hermosa	美丽的（阴性）		adj.
+ben	人名：本		n.
+honor	荣誉		n.
+simplemente	简单地；仅仅		adv.
+llamas	你叫（llamar 第二人称单数）；火焰（复数）		v./n.
+tengas	你有（tener 虚拟式第二人称）		v.
+corre	跑（correr 第三人称单数/命令式）		v.
+baja	低的（阴性）；下来（bajar 命令式）		adj./v.
+sol	太阳		n.
+siéntate	坐下（sentarse+te 命令式）		v.
+dan	他们给（dar 复数第三人称）		v.
+humano	人类的；人		adj./n.
+divertido	有趣的		adj.
+sexo	性；性别		n.
+vuelto	回来的（volver 过去分词）		part.
+peligro	危险		n.
+mesa	桌子		n.
+jimmy	人名：吉米		n.
+siguiente	下一个的		adj.
+hablo	我说（hablar 第一人称单数）		v.
+disculpa	道歉；原谅；对不起（disculpar 命令式）		n./v.
+decirme	告诉我（decir+me）		v.
+joe	人名：乔		n.
+caja	盒子；箱子		n.
+negocios	生意（复数）		n.
+misión	任务；使命		n.
+silencio	沉默；安静		n.
+sale	他出去（salir 第三人称单数）		v.
+llegado	到达的（llegar 过去分词）		part.
+estaría	会在（estar 条件式）		v.
+regreso	返回；我返回（regresar 第一人称单数）		n./v.
+media	一半的（阴性）；媒体		adj./n.
+estan	他们在（estar 复数第三人称，无重音变体）		v.
+propio	自己的		adj.
+charlie	人名：查理		n.
+oro	黄金		n.
+enseguida	立刻；马上		adv.
+linda	漂亮的（阴性）		adj.
+prometo	我承诺（prometer 第一人称单数）		v.
+esposo	丈夫		n.
+norte	北方		n.
+hubo	曾有（haber 第三人称单数过去式）		v.
+juro	我发誓（jurar 第一人称单数）		v.
+muerta	死的（阴性）；死者		adj./n.
+interesante	有趣的		adj.
+pensaba	曾在想（pensar 过去未完成第一/第三人称单数）		v.
+busca	寻找；他找（buscar 第三人称单数）		n./v.
+terminar	结束；完成		v.
+tendré	我将有（tener 将来时第一人称单数）		v.
+completamente	完全地		adv.
+cita	约会；引用		n.
+siete	七		num.
+cumpleaños	生日		n.
+abogado	律师		n.
+alrededor	周围；大约		adv.
+cerebro	大脑		n.
+porqué	原因；为什么（名词）		n.
+llave	钥匙		n.
+santo	神圣的；圣人		adj./n.
+hermoso	美丽的（阳性）		adj.
+necesario	必要的		adj.
+edificio	建筑物；大楼		n.
+irnos	我们离开（irse+nos）		v.
+aun	还；即使（aún 的无重音变体）		adv.
+tendremos	我们将有（tener 将来时复数第一人称）		v.
+vayas	你去（ir 虚拟式第二人称）		v.
+doy	我给（dar 第一人称单数）		v.
+trae	他带；拿来（traer 第三人称单数/命令式）		v.
+salió	他出去了（salir 第三人称单数过去式）		v.
+ley	法律		n.
+ahi	那里（ahí 的无重音变体）		adv.
+verdadero	真实的；真正的		adj.
+pelea	打架；争吵；他打（pelear 第三人称单数）		n./v.
+banco	银行；长椅		n.
+terrible	可怕的；糟糕的		adj.
+calma	平静；冷静（calmar 命令式）		n./v.
+cena	晚餐		n.
+daré	我将给（dar 将来时第一人称单数）		v.
+gobierno	政府		n.
+comprar	购买		v.
+creen	他们相信（creer 复数第三人称）		v.
+sargento	军士；警官		n.
+destino	命运；目的地		n.
+bob	人名：鲍勃		n.
+existe	存在（existir 第三人称单数）		v.
+hacía	曾在做（hacer 过去未完成第一/第三人称单数）		v.
+novio	男朋友；新郎		n.
+sala	房间；客厅		n.
+través	穿过（仅用于固定搭配）		n.
+regalo	礼物		n.
+iglesia	教堂		n.
+decía	曾说（decir 过去未完成第一/第三人称单数）		v.
+cualquiera	任何一个；随便谁		pron.
+excelente	极好的		adj.
+esperen	请等（esperar 复数命令式）		v.
+deseo	愿望；我祝愿（desear 第一人称单数）		n./v.
+alma	灵魂；心灵		n.
+diablo	魔鬼		n.
+deje	请放下/留下（dejar 命令式敬称）		v.
+cuántos	多少（阳性复数）		adj.
+espada	剑		n.
+estábamos	我们曾在（estar 过去未完成复数第一人称）		v.
+carne	肉		n.
+maravilloso	奇妙的；精彩的		adj.
+vidas	生命（复数）		n.
+sucedió	发生了（suceder 第三人称单数过去式）		v.
+oí	我听见了（oír 第一人称单数过去式）		v.
+peligroso	危险的		adj.
+dirección	地址；方向；管理		n.
+libertad	自由		n.
+jesús	人名：耶稣；天哪（叹词）		n.
+ocurrió	发生了（ocurrir 第三人称单数过去式）		v.
+veré	我将看到（ver 将来时第一人称单数）		v.
+sueños	梦（复数）		n.
+pudiera	可能（poder 虚拟式过去）		v.
+detective	侦探		n.
+sorpresa	惊喜；惊讶		n.
+tuya	你的（阴性）		pron.
+pies	脚（复数）		n.
+club	俱乐部		n.
+terminado	结束的（terminar 过去分词）		part.
+infierno	地狱		n.
+creía	曾相信（creer 过去未完成第一/第三人称单数）		v.
+luna	月亮		n.
+salvar	拯救		v.
+carta	信；卡片；菜单		n.
+estés	你在（estar 虚拟式第二人称）		v.

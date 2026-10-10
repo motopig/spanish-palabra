@@ -1,0 +1,2126 @@
+{
+  "id": "es-core",
+  "name": "西班牙语核心词",
+  "description": "约 250 个最常用的西班牙语高频词，含 IPA 音标、词性与中文释义",
+  "category": "es-core",
+  "tags": [
+    "core",
+    "beginner"
+  ],
+  "language": "es",
+  "languageCategory": "es-ES",
+  "words": [
+    {
+      "name": "hola",
+      "trans": [
+        "你好",
+        "喂"
+      ],
+      "phonetic": "ˈola",
+      "pos": "interj."
+    },
+    {
+      "name": "adiós",
+      "trans": [
+        "再见"
+      ],
+      "phonetic": "aˈðjos",
+      "pos": "interj."
+    },
+    {
+      "name": "gracias",
+      "trans": [
+        "谢谢"
+      ],
+      "phonetic": "ˈɡɾaθjas",
+      "pos": "interj."
+    },
+    {
+      "name": "perdón",
+      "trans": [
+        "对不起",
+        "抱歉"
+      ],
+      "phonetic": "peɾˈðon",
+      "pos": "interj."
+    },
+    {
+      "name": "sí",
+      "trans": [
+        "是",
+        "对"
+      ],
+      "phonetic": "si",
+      "pos": "adv."
+    },
+    {
+      "name": "no",
+      "trans": [
+        "不",
+        "不是"
+      ],
+      "phonetic": "no",
+      "pos": "adv."
+    },
+    {
+      "name": "bueno",
+      "trans": [
+        "好的",
+        "良好的"
+      ],
+      "phonetic": "ˈbweno",
+      "pos": "adj."
+    },
+    {
+      "name": "malo",
+      "trans": [
+        "坏的",
+        "差的"
+      ],
+      "phonetic": "ˈmalo",
+      "pos": "adj."
+    },
+    {
+      "name": "grande",
+      "trans": [
+        "大的"
+      ],
+      "phonetic": "ˈɡɾande",
+      "pos": "adj."
+    },
+    {
+      "name": "pequeño",
+      "trans": [
+        "小的"
+      ],
+      "phonetic": "peˈkeɲo",
+      "pos": "adj."
+    },
+    {
+      "name": "nuevo",
+      "trans": [
+        "新的"
+      ],
+      "phonetic": "ˈnweβo",
+      "pos": "adj."
+    },
+    {
+      "name": "viejo",
+      "trans": [
+        "旧的",
+        "年老的"
+      ],
+      "phonetic": "ˈbjexo",
+      "pos": "adj."
+    },
+    {
+      "name": "joven",
+      "trans": [
+        "年轻的"
+      ],
+      "phonetic": "ˈxoβen",
+      "pos": "adj."
+    },
+    {
+      "name": "bien",
+      "trans": [
+        "好",
+        "很好"
+      ],
+      "phonetic": "bjen",
+      "pos": "adv."
+    },
+    {
+      "name": "mal",
+      "trans": [
+        "坏",
+        "糟糕"
+      ],
+      "phonetic": "mal",
+      "pos": "adv."
+    },
+    {
+      "name": "más",
+      "trans": [
+        "更多",
+        "更"
+      ],
+      "phonetic": "mas",
+      "pos": "adv."
+    },
+    {
+      "name": "menos",
+      "trans": [
+        "更少",
+        "较少"
+      ],
+      "phonetic": "ˈmenos",
+      "pos": "adv."
+    },
+    {
+      "name": "muy",
+      "trans": [
+        "非常"
+      ],
+      "phonetic": "muj",
+      "pos": "adv."
+    },
+    {
+      "name": "también",
+      "trans": [
+        "也",
+        "同样"
+      ],
+      "phonetic": "tamˈbjen",
+      "pos": "adv."
+    },
+    {
+      "name": "tampoco",
+      "trans": [
+        "也不"
+      ],
+      "phonetic": "tamˈpoko",
+      "pos": "adv."
+    },
+    {
+      "name": "ahora",
+      "trans": [
+        "现在"
+      ],
+      "phonetic": "aˈoɾa",
+      "pos": "adv."
+    },
+    {
+      "name": "luego",
+      "trans": [
+        "然后",
+        "稍后"
+      ],
+      "phonetic": "ˈlweɣo",
+      "pos": "adv."
+    },
+    {
+      "name": "siempre",
+      "trans": [
+        "总是"
+      ],
+      "phonetic": "ˈsjempɾe",
+      "pos": "adv."
+    },
+    {
+      "name": "nunca",
+      "trans": [
+        "从不"
+      ],
+      "phonetic": "ˈnuŋka",
+      "pos": "adv."
+    },
+    {
+      "name": "ayer",
+      "trans": [
+        "昨天"
+      ],
+      "phonetic": "aˈʝeɾ",
+      "pos": "adv."
+    },
+    {
+      "name": "hoy",
+      "trans": [
+        "今天"
+      ],
+      "phonetic": "oj",
+      "pos": "adv."
+    },
+    {
+      "name": "mañana",
+      "trans": [
+        "明天",
+        "早晨"
+      ],
+      "phonetic": "maˈɲana",
+      "pos": "n.f."
+    },
+    {
+      "name": "aquí",
+      "trans": [
+        "这里"
+      ],
+      "phonetic": "aˈki",
+      "pos": "adv."
+    },
+    {
+      "name": "allí",
+      "trans": [
+        "那里"
+      ],
+      "phonetic": "aˈʝi",
+      "pos": "adv."
+    },
+    {
+      "name": "cerca",
+      "trans": [
+        "近"
+      ],
+      "phonetic": "ˈθeɾka",
+      "pos": "adv."
+    },
+    {
+      "name": "lejos",
+      "trans": [
+        "远"
+      ],
+      "phonetic": "ˈlexos",
+      "pos": "adv."
+    },
+    {
+      "name": "yo",
+      "trans": [
+        "我"
+      ],
+      "phonetic": "ʝo",
+      "pos": "pron."
+    },
+    {
+      "name": "tú",
+      "trans": [
+        "你"
+      ],
+      "phonetic": "tu",
+      "pos": "pron."
+    },
+    {
+      "name": "él",
+      "trans": [
+        "他"
+      ],
+      "phonetic": "el",
+      "pos": "pron."
+    },
+    {
+      "name": "ella",
+      "trans": [
+        "她"
+      ],
+      "phonetic": "ˈeʝa",
+      "pos": "pron."
+    },
+    {
+      "name": "nosotros",
+      "trans": [
+        "我们"
+      ],
+      "phonetic": "noˈsotɾos",
+      "pos": "pron."
+    },
+    {
+      "name": "ellos",
+      "trans": [
+        "他们"
+      ],
+      "phonetic": "ˈeʝos",
+      "pos": "pron."
+    },
+    {
+      "name": "me",
+      "trans": [
+        "我（宾格）"
+      ],
+      "phonetic": "me",
+      "pos": "pron."
+    },
+    {
+      "name": "te",
+      "trans": [
+        "你（宾格）"
+      ],
+      "phonetic": "te",
+      "pos": "pron."
+    },
+    {
+      "name": "se",
+      "trans": [
+        "自己（反身）"
+      ],
+      "phonetic": "se",
+      "pos": "pron."
+    },
+    {
+      "name": "mi",
+      "trans": [
+        "我的"
+      ],
+      "phonetic": "mi",
+      "pos": "det."
+    },
+    {
+      "name": "su",
+      "trans": [
+        "他的",
+        "她的"
+      ],
+      "phonetic": "su",
+      "pos": "det."
+    },
+    {
+      "name": "nuestro",
+      "trans": [
+        "我们的"
+      ],
+      "phonetic": "ˈnwestɾo",
+      "pos": "det."
+    },
+    {
+      "name": "este",
+      "trans": [
+        "这个"
+      ],
+      "phonetic": "ˈeste",
+      "pos": "det."
+    },
+    {
+      "name": "ese",
+      "trans": [
+        "那个"
+      ],
+      "phonetic": "ˈese",
+      "pos": "det."
+    },
+    {
+      "name": "quién",
+      "trans": [
+        "谁"
+      ],
+      "phonetic": "kjen",
+      "pos": "pron."
+    },
+    {
+      "name": "qué",
+      "trans": [
+        "什么"
+      ],
+      "phonetic": "ke",
+      "pos": "pron."
+    },
+    {
+      "name": "cómo",
+      "trans": [
+        "怎样"
+      ],
+      "phonetic": "ˈkomo",
+      "pos": "adv."
+    },
+    {
+      "name": "cuándo",
+      "trans": [
+        "何时"
+      ],
+      "phonetic": "ˈkwando",
+      "pos": "adv."
+    },
+    {
+      "name": "dónde",
+      "trans": [
+        "哪里"
+      ],
+      "phonetic": "ˈdonde",
+      "pos": "adv."
+    },
+    {
+      "name": "cuál",
+      "trans": [
+        "哪个"
+      ],
+      "phonetic": "kwal",
+      "pos": "pron."
+    },
+    {
+      "name": "algo",
+      "trans": [
+        "某事",
+        "一些"
+      ],
+      "phonetic": "ˈalɣo",
+      "pos": "pron."
+    },
+    {
+      "name": "alguien",
+      "trans": [
+        "某人"
+      ],
+      "phonetic": "ˈalɣjen",
+      "pos": "pron."
+    },
+    {
+      "name": "nada",
+      "trans": [
+        "什么都没有"
+      ],
+      "phonetic": "ˈnaða",
+      "pos": "pron."
+    },
+    {
+      "name": "nadie",
+      "trans": [
+        "没有人"
+      ],
+      "phonetic": "ˈnaðje",
+      "pos": "pron."
+    },
+    {
+      "name": "todo",
+      "trans": [
+        "全部",
+        "所有"
+      ],
+      "phonetic": "ˈtoðo",
+      "pos": "pron."
+    },
+    {
+      "name": "mucho",
+      "trans": [
+        "很多"
+      ],
+      "phonetic": "ˈmutʃo",
+      "pos": "adj."
+    },
+    {
+      "name": "poco",
+      "trans": [
+        "少"
+      ],
+      "phonetic": "poko",
+      "pos": "adj."
+    },
+    {
+      "name": "otro",
+      "trans": [
+        "另一个"
+      ],
+      "phonetic": "ˈotɾo",
+      "pos": "adj."
+    },
+    {
+      "name": "mismo",
+      "trans": [
+        "相同的"
+      ],
+      "phonetic": "ˈmismo",
+      "pos": "adj."
+    },
+    {
+      "name": "ser",
+      "trans": [
+        "是",
+        "存在"
+      ],
+      "phonetic": "seɾ",
+      "pos": "v."
+    },
+    {
+      "name": "estar",
+      "trans": [
+        "在",
+        "处于"
+      ],
+      "phonetic": "esˈtaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "haber",
+      "trans": [
+        "有",
+        "存在"
+      ],
+      "phonetic": "aˈβeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "tener",
+      "trans": [
+        "有",
+        "拥有"
+      ],
+      "phonetic": "teˈneɾ",
+      "pos": "v."
+    },
+    {
+      "name": "hacer",
+      "trans": [
+        "做",
+        "制作"
+      ],
+      "phonetic": "aˈθeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "ir",
+      "trans": [
+        "去"
+      ],
+      "phonetic": "iɾ",
+      "pos": "v."
+    },
+    {
+      "name": "venir",
+      "trans": [
+        "来"
+      ],
+      "phonetic": "beˈniɾ",
+      "pos": "v."
+    },
+    {
+      "name": "poder",
+      "trans": [
+        "能够"
+      ],
+      "phonetic": "poˈðeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "deber",
+      "trans": [
+        "应该",
+        "欠"
+      ],
+      "phonetic": "deˈβeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "querer",
+      "trans": [
+        "想要",
+        "爱"
+      ],
+      "phonetic": "keˈɾeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "saber",
+      "trans": [
+        "知道",
+        "会"
+      ],
+      "phonetic": "saˈβeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "conocer",
+      "trans": [
+        "认识",
+        "了解"
+      ],
+      "phonetic": "konoˈθeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "decir",
+      "trans": [
+        "说",
+        "告诉"
+      ],
+      "phonetic": "deˈθiɾ",
+      "pos": "v."
+    },
+    {
+      "name": "ver",
+      "trans": [
+        "看",
+        "看见"
+      ],
+      "phonetic": "beɾ",
+      "pos": "v."
+    },
+    {
+      "name": "dar",
+      "trans": [
+        "给"
+      ],
+      "phonetic": "daɾ",
+      "pos": "v."
+    },
+    {
+      "name": "poner",
+      "trans": [
+        "放",
+        "放置"
+      ],
+      "phonetic": "poˈneɾ",
+      "pos": "v."
+    },
+    {
+      "name": "salir",
+      "trans": [
+        "出去",
+        "离开"
+      ],
+      "phonetic": "saˈliɾ",
+      "pos": "v."
+    },
+    {
+      "name": "llegar",
+      "trans": [
+        "到达"
+      ],
+      "phonetic": "ʝeˈɣaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "pasar",
+      "trans": [
+        "经过",
+        "发生"
+      ],
+      "phonetic": "paˈsaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "quedar",
+      "trans": [
+        "停留",
+        "约"
+      ],
+      "phonetic": "ˈkeðaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "llevar",
+      "trans": [
+        "携带",
+        "带走"
+      ],
+      "phonetic": "ʝeˈβaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "dejar",
+      "trans": [
+        "留下",
+        "让"
+      ],
+      "phonetic": "deˈxaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "seguir",
+      "trans": [
+        "跟随",
+        "继续"
+      ],
+      "phonetic": "seˈɣiɾ",
+      "pos": "v."
+    },
+    {
+      "name": "encontrar",
+      "trans": [
+        "找到",
+        "遇见"
+      ],
+      "phonetic": "enkonˈtɾaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "llamar",
+      "trans": [
+        "叫",
+        "打电话"
+      ],
+      "phonetic": "ʝaˈmaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "pensar",
+      "trans": [
+        "想",
+        "思考"
+      ],
+      "phonetic": "penˈsaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "volver",
+      "trans": [
+        "返回"
+      ],
+      "phonetic": "bolˈβeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "tomar",
+      "trans": [
+        "拿",
+        "喝",
+        "乘"
+      ],
+      "phonetic": "toˈmaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "hablar",
+      "trans": [
+        "说",
+        "讲"
+      ],
+      "phonetic": "aˈβlaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "escribir",
+      "trans": [
+        "写"
+      ],
+      "phonetic": "eskɾiˈβiɾ",
+      "pos": "v."
+    },
+    {
+      "name": "leer",
+      "trans": [
+        "读"
+      ],
+      "phonetic": "leˈeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "comer",
+      "trans": [
+        "吃"
+      ],
+      "phonetic": "koˈmeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "beber",
+      "trans": [
+        "喝"
+      ],
+      "phonetic": "beˈβeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "vivir",
+      "trans": [
+        "生活",
+        "居住"
+      ],
+      "phonetic": "biˈβiɾ",
+      "pos": "v."
+    },
+    {
+      "name": "trabajar",
+      "trans": [
+        "工作"
+      ],
+      "phonetic": "tɾaβaˈxaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "estudiar",
+      "trans": [
+        "学习"
+      ],
+      "phonetic": "estuˈðjaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "aprender",
+      "trans": [
+        "学会"
+      ],
+      "phonetic": "apɾenˈdeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "comprar",
+      "trans": [
+        "买"
+      ],
+      "phonetic": "komˈpɾaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "vender",
+      "trans": [
+        "卖"
+      ],
+      "phonetic": "benˈdeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "abrir",
+      "trans": [
+        "开",
+        "打开"
+      ],
+      "phonetic": "aˈβɾiɾ",
+      "pos": "v."
+    },
+    {
+      "name": "cerrar",
+      "trans": [
+        "关",
+        "关闭"
+      ],
+      "phonetic": "θeˈraɾ",
+      "pos": "v."
+    },
+    {
+      "name": "empezar",
+      "trans": [
+        "开始"
+      ],
+      "phonetic": "empeˈθaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "terminar",
+      "trans": [
+        "结束"
+      ],
+      "phonetic": "teɾmiˈnaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "buscar",
+      "trans": [
+        "寻找"
+      ],
+      "phonetic": "busˈkaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "escuchar",
+      "trans": [
+        "听"
+      ],
+      "phonetic": "eskuˈtʃaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "sentir",
+      "trans": [
+        "感觉",
+        "感到"
+      ],
+      "phonetic": "senˈtiɾ",
+      "pos": "v."
+    },
+    {
+      "name": "dormir",
+      "trans": [
+        "睡觉"
+      ],
+      "phonetic": "doɾˈmiɾ",
+      "pos": "v."
+    },
+    {
+      "name": "caminar",
+      "trans": [
+        "走路"
+      ],
+      "phonetic": "kamiˈnaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "correr",
+      "trans": [
+        "跑"
+      ],
+      "phonetic": "koˈreɾ",
+      "pos": "v."
+    },
+    {
+      "name": "jugar",
+      "trans": [
+        "玩"
+      ],
+      "phonetic": "xuˈɣaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "viajar",
+      "trans": [
+        "旅行"
+      ],
+      "phonetic": "bjaˈxaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "cocinar",
+      "trans": [
+        "做饭"
+      ],
+      "phonetic": "kosiˈnaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "limpiar",
+      "trans": [
+        "打扫"
+      ],
+      "phonetic": "limˈpjaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "ayudar",
+      "trans": [
+        "帮助"
+      ],
+      "phonetic": "aʝuˈðaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "usar",
+      "trans": [
+        "使用"
+      ],
+      "phonetic": "uˈsaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "necesitar",
+      "trans": [
+        "需要"
+      ],
+      "phonetic": "neθesiˈtaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "gustar",
+      "trans": [
+        "喜欢"
+      ],
+      "phonetic": "ɡusˈtaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "olvidar",
+      "trans": [
+        "忘记"
+      ],
+      "phonetic": "olbiˈðaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "recordar",
+      "trans": [
+        "记得",
+        "想起"
+      ],
+      "phonetic": "rekoɾˈðaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "entender",
+      "trans": [
+        "理解"
+      ],
+      "phonetic": "entenˈdeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "creer",
+      "trans": [
+        "相信",
+        "认为"
+      ],
+      "phonetic": "kɾeˈeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "esperar",
+      "trans": [
+        "等待",
+        "希望"
+      ],
+      "phonetic": "espeˈɾaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "mirar",
+      "trans": [
+        "看",
+        "注视"
+      ],
+      "phonetic": "miˈɾaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "oír",
+      "trans": [
+        "听见"
+      ],
+      "phonetic": "oˈiɾ",
+      "pos": "v."
+    },
+    {
+      "name": "pedir",
+      "trans": [
+        "请求",
+        "要求"
+      ],
+      "phonetic": "peˈðiɾ",
+      "pos": "v."
+    },
+    {
+      "name": "recibir",
+      "trans": [
+        "收到"
+      ],
+      "phonetic": "reθiˈβiɾ",
+      "pos": "v."
+    },
+    {
+      "name": "preguntar",
+      "trans": [
+        "问"
+      ],
+      "phonetic": "pɾeɣunˈtaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "cambiar",
+      "trans": [
+        "改变"
+      ],
+      "phonetic": "kamˈbjaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "decidir",
+      "trans": [
+        "决定"
+      ],
+      "phonetic": "deθiˈðiɾ",
+      "pos": "v."
+    },
+    {
+      "name": "intentar",
+      "trans": [
+        "尝试"
+      ],
+      "phonetic": "intenˈtaɾ",
+      "pos": "v."
+    },
+    {
+      "name": "parecer",
+      "trans": [
+        "似乎",
+        "看起来"
+      ],
+      "phonetic": "paɾeˈθeɾ",
+      "pos": "v."
+    },
+    {
+      "name": "casa",
+      "trans": [
+        "房子"
+      ],
+      "phonetic": "ˈkasa",
+      "pos": "n.f."
+    },
+    {
+      "name": "coche",
+      "trans": [
+        "汽车"
+      ],
+      "phonetic": "ˈkotʃe",
+      "pos": "n.m."
+    },
+    {
+      "name": "libro",
+      "trans": [
+        "书"
+      ],
+      "phonetic": "ˈliβɾo",
+      "pos": "n.m."
+    },
+    {
+      "name": "mesa",
+      "trans": [
+        "桌子"
+      ],
+      "phonetic": "ˈmesa",
+      "pos": "n.f."
+    },
+    {
+      "name": "silla",
+      "trans": [
+        "椅子"
+      ],
+      "phonetic": "ˈsiʝa",
+      "pos": "n.f."
+    },
+    {
+      "name": "puerta",
+      "trans": [
+        "门"
+      ],
+      "phonetic": "ˈpweɾta",
+      "pos": "n.f."
+    },
+    {
+      "name": "ventana",
+      "trans": [
+        "窗户"
+      ],
+      "phonetic": "benˈtana",
+      "pos": "n.f."
+    },
+    {
+      "name": "ciudad",
+      "trans": [
+        "城市"
+      ],
+      "phonetic": "θjuˈðað",
+      "pos": "n.f."
+    },
+    {
+      "name": "país",
+      "trans": [
+        "国家"
+      ],
+      "phonetic": "paˈis",
+      "pos": "n.m."
+    },
+    {
+      "name": "mundo",
+      "trans": [
+        "世界"
+      ],
+      "phonetic": "ˈmundo",
+      "pos": "n.m."
+    },
+    {
+      "name": "agua",
+      "trans": [
+        "水"
+      ],
+      "phonetic": "ˈaɣwa",
+      "pos": "n.f."
+    },
+    {
+      "name": "pan",
+      "trans": [
+        "面包"
+      ],
+      "phonetic": "pan",
+      "pos": "n.m."
+    },
+    {
+      "name": "leche",
+      "trans": [
+        "牛奶"
+      ],
+      "phonetic": "ˈletʃe",
+      "pos": "n.f."
+    },
+    {
+      "name": "café",
+      "trans": [
+        "咖啡"
+      ],
+      "phonetic": "kaˈfe",
+      "pos": "n.m."
+    },
+    {
+      "name": "comida",
+      "trans": [
+        "食物",
+        "午饭"
+      ],
+      "phonetic": "koˈmiða",
+      "pos": "n.f."
+    },
+    {
+      "name": "desayuno",
+      "trans": [
+        "早餐"
+      ],
+      "phonetic": "desaˈʝuno",
+      "pos": "n.m."
+    },
+    {
+      "name": "cena",
+      "trans": [
+        "晚餐"
+      ],
+      "phonetic": "ˈθena",
+      "pos": "n.f."
+    },
+    {
+      "name": "día",
+      "trans": [
+        "天",
+        "白天"
+      ],
+      "phonetic": "ˈdia",
+      "pos": "n.m."
+    },
+    {
+      "name": "noche",
+      "trans": [
+        "夜晚"
+      ],
+      "phonetic": "ˈnotʃe",
+      "pos": "n.f."
+    },
+    {
+      "name": "semana",
+      "trans": [
+        "星期"
+      ],
+      "phonetic": "seˈmana",
+      "pos": "n.f."
+    },
+    {
+      "name": "mes",
+      "trans": [
+        "月份"
+      ],
+      "phonetic": "mes",
+      "pos": "n.m."
+    },
+    {
+      "name": "año",
+      "trans": [
+        "年"
+      ],
+      "phonetic": "ˈaɲo",
+      "pos": "n.m."
+    },
+    {
+      "name": "hora",
+      "trans": [
+        "小时",
+        "时间"
+      ],
+      "phonetic": "ˈoɾa",
+      "pos": "n.f."
+    },
+    {
+      "name": "minuto",
+      "trans": [
+        "分钟"
+      ],
+      "phonetic": "miˈnuto",
+      "pos": "n.m."
+    },
+    {
+      "name": "tiempo",
+      "trans": [
+        "时间",
+        "天气"
+      ],
+      "phonetic": "ˈtjembo",
+      "pos": "n.m."
+    },
+    {
+      "name": "lugar",
+      "trans": [
+        "地方"
+      ],
+      "phonetic": "luˈɣaɾ",
+      "pos": "n.m."
+    },
+    {
+      "name": "calle",
+      "trans": [
+        "街道"
+      ],
+      "phonetic": "ˈkaʝe",
+      "pos": "n.f."
+    },
+    {
+      "name": "tienda",
+      "trans": [
+        "商店"
+      ],
+      "phonetic": "ˈtjenda",
+      "pos": "n.f."
+    },
+    {
+      "name": "mercado",
+      "trans": [
+        "市场"
+      ],
+      "phonetic": "meɾˈkaðo",
+      "pos": "n.m."
+    },
+    {
+      "name": "dinero",
+      "trans": [
+        "钱"
+      ],
+      "phonetic": "diˈneɾo",
+      "pos": "n.m."
+    },
+    {
+      "name": "precio",
+      "trans": [
+        "价格"
+      ],
+      "phonetic": "ˈpɾeθjo",
+      "pos": "n.m."
+    },
+    {
+      "name": "trabajo",
+      "trans": [
+        "工作"
+      ],
+      "phonetic": "tɾaˈβaxo",
+      "pos": "n.m."
+    },
+    {
+      "name": "escuela",
+      "trans": [
+        "学校"
+      ],
+      "phonetic": "esˈkwela",
+      "pos": "n.f."
+    },
+    {
+      "name": "universidad",
+      "trans": [
+        "大学"
+      ],
+      "phonetic": "unibeɾsiˈðað",
+      "pos": "n.f."
+    },
+    {
+      "name": "clase",
+      "trans": [
+        "课",
+        "班级"
+      ],
+      "phonetic": "ˈklase",
+      "pos": "n.f."
+    },
+    {
+      "name": "profesor",
+      "trans": [
+        "老师"
+      ],
+      "phonetic": "pɾofeˈsoɾ",
+      "pos": "n.m."
+    },
+    {
+      "name": "estudiante",
+      "trans": [
+        "学生"
+      ],
+      "phonetic": "estuˈðjante",
+      "pos": "n."
+    },
+    {
+      "name": "amigo",
+      "trans": [
+        "朋友"
+      ],
+      "phonetic": "aˈmiɣo",
+      "pos": "n.m."
+    },
+    {
+      "name": "familia",
+      "trans": [
+        "家庭"
+      ],
+      "phonetic": "faˈmilja",
+      "pos": "n.f."
+    },
+    {
+      "name": "madre",
+      "trans": [
+        "母亲"
+      ],
+      "phonetic": "ˈmaðɾe",
+      "pos": "n.f."
+    },
+    {
+      "name": "padre",
+      "trans": [
+        "父亲"
+      ],
+      "phonetic": "ˈpaðɾe",
+      "pos": "n.m."
+    },
+    {
+      "name": "hermano",
+      "trans": [
+        "兄弟"
+      ],
+      "phonetic": "eɾˈmano",
+      "pos": "n.m."
+    },
+    {
+      "name": "hermana",
+      "trans": [
+        "姐妹"
+      ],
+      "phonetic": "eɾˈmana",
+      "pos": "n.f."
+    },
+    {
+      "name": "hijo",
+      "trans": [
+        "儿子"
+      ],
+      "phonetic": "ˈixo",
+      "pos": "n.m."
+    },
+    {
+      "name": "hija",
+      "trans": [
+        "女儿"
+      ],
+      "phonetic": "ˈixa",
+      "pos": "n.f."
+    },
+    {
+      "name": "niño",
+      "trans": [
+        "男孩",
+        "孩子"
+      ],
+      "phonetic": "ˈniɲo",
+      "pos": "n.m."
+    },
+    {
+      "name": "niña",
+      "trans": [
+        "女孩"
+      ],
+      "phonetic": "ˈniɲa",
+      "pos": "n.f."
+    },
+    {
+      "name": "hombre",
+      "trans": [
+        "男人"
+      ],
+      "phonetic": "ˈombɾe",
+      "pos": "n.m."
+    },
+    {
+      "name": "mujer",
+      "trans": [
+        "女人"
+      ],
+      "phonetic": "muˈxeɾ",
+      "pos": "n.f."
+    },
+    {
+      "name": "persona",
+      "trans": [
+        "人"
+      ],
+      "phonetic": "peɾˈsona",
+      "pos": "n.f."
+    },
+    {
+      "name": "gente",
+      "trans": [
+        "人们"
+      ],
+      "phonetic": "ˈxente",
+      "pos": "n.f."
+    },
+    {
+      "name": "perro",
+      "trans": [
+        "狗"
+      ],
+      "phonetic": "ˈpero",
+      "pos": "n.m."
+    },
+    {
+      "name": "gato",
+      "trans": [
+        "猫"
+      ],
+      "phonetic": "ˈɡato",
+      "pos": "n.m."
+    },
+    {
+      "name": "animal",
+      "trans": [
+        "动物"
+      ],
+      "phonetic": "aniˈmal",
+      "pos": "n.m."
+    },
+    {
+      "name": "árbol",
+      "trans": [
+        "树"
+      ],
+      "phonetic": "ˈaɾβol",
+      "pos": "n.m."
+    },
+    {
+      "name": "flor",
+      "trans": [
+        "花"
+      ],
+      "phonetic": "floɾ",
+      "pos": "n.f."
+    },
+    {
+      "name": "sol",
+      "trans": [
+        "太阳"
+      ],
+      "phonetic": "sol",
+      "pos": "n.m."
+    },
+    {
+      "name": "luna",
+      "trans": [
+        "月亮"
+      ],
+      "phonetic": "ˈluna",
+      "pos": "n.f."
+    },
+    {
+      "name": "mar",
+      "trans": [
+        "海"
+      ],
+      "phonetic": "maɾ",
+      "pos": "n.m."
+    },
+    {
+      "name": "montaña",
+      "trans": [
+        "山"
+      ],
+      "phonetic": "monˈtaɲa",
+      "pos": "n.f."
+    },
+    {
+      "name": "río",
+      "trans": [
+        "河"
+      ],
+      "phonetic": "ˈrio",
+      "pos": "n.m."
+    },
+    {
+      "name": "lluvia",
+      "trans": [
+        "雨"
+      ],
+      "phonetic": "ˈʝuβja",
+      "pos": "n.f."
+    },
+    {
+      "name": "viento",
+      "trans": [
+        "风"
+      ],
+      "phonetic": "ˈbjento",
+      "pos": "n.m."
+    },
+    {
+      "name": "fuego",
+      "trans": [
+        "火"
+      ],
+      "phonetic": "ˈfweɣo",
+      "pos": "n.m."
+    },
+    {
+      "name": "tierra",
+      "trans": [
+        "土地",
+        "地球"
+      ],
+      "phonetic": "ˈtjera",
+      "pos": "n.f."
+    },
+    {
+      "name": "cama",
+      "trans": [
+        "床"
+      ],
+      "phonetic": "ˈkama",
+      "pos": "n.f."
+    },
+    {
+      "name": "ropa",
+      "trans": [
+        "衣服"
+      ],
+      "phonetic": "ˈropa",
+      "pos": "n.f."
+    },
+    {
+      "name": "mano",
+      "trans": [
+        "手"
+      ],
+      "phonetic": "ˈmano",
+      "pos": "n.f."
+    },
+    {
+      "name": "cabeza",
+      "trans": [
+        "头"
+      ],
+      "phonetic": "kaˈβeθa",
+      "pos": "n.f."
+    },
+    {
+      "name": "ojo",
+      "trans": [
+        "眼睛"
+      ],
+      "phonetic": "ˈoxo",
+      "pos": "n.m."
+    },
+    {
+      "name": "boca",
+      "trans": [
+        "嘴"
+      ],
+      "phonetic": "ˈboka",
+      "pos": "n.f."
+    },
+    {
+      "name": "cuerpo",
+      "trans": [
+        "身体"
+      ],
+      "phonetic": "ˈkweɾpo",
+      "pos": "n.m."
+    },
+    {
+      "name": "palabra",
+      "trans": [
+        "单词",
+        "话语"
+      ],
+      "phonetic": "paˈlaβɾa",
+      "pos": "n.f."
+    },
+    {
+      "name": "idioma",
+      "trans": [
+        "语言"
+      ],
+      "phonetic": "iˈðjoma",
+      "pos": "n.m."
+    },
+    {
+      "name": "número",
+      "trans": [
+        "数字"
+      ],
+      "phonetic": "ˈnumeɾo",
+      "pos": "n.m."
+    },
+    {
+      "name": "problema",
+      "trans": [
+        "问题"
+      ],
+      "phonetic": "pɾoˈβlema",
+      "pos": "n.m."
+    },
+    {
+      "name": "pregunta",
+      "trans": [
+        "问题"
+      ],
+      "phonetic": "pɾeˈɣunta",
+      "pos": "n.f."
+    },
+    {
+      "name": "respuesta",
+      "trans": [
+        "回答"
+      ],
+      "phonetic": "resˈpwesta",
+      "pos": "n.f."
+    },
+    {
+      "name": "idea",
+      "trans": [
+        "想法"
+      ],
+      "phonetic": "iˈðea",
+      "pos": "n.f."
+    },
+    {
+      "name": "historia",
+      "trans": [
+        "历史",
+        "故事"
+      ],
+      "phonetic": "isˈtoɾja",
+      "pos": "n.f."
+    },
+    {
+      "name": "música",
+      "trans": [
+        "音乐"
+      ],
+      "phonetic": "ˈmusika",
+      "pos": "n.f."
+    },
+    {
+      "name": "vida",
+      "trans": [
+        "生活",
+        "生命"
+      ],
+      "phonetic": "ˈbiða",
+      "pos": "n.f."
+    },
+    {
+      "name": "amor",
+      "trans": [
+        "爱"
+      ],
+      "phonetic": "aˈmoɾ",
+      "pos": "n.m."
+    },
+    {
+      "name": "alto",
+      "trans": [
+        "高的"
+      ],
+      "phonetic": "ˈalto",
+      "pos": "adj."
+    },
+    {
+      "name": "bajo",
+      "trans": [
+        "低的"
+      ],
+      "phonetic": "ˈbaxo",
+      "pos": "adj."
+    },
+    {
+      "name": "largo",
+      "trans": [
+        "长的"
+      ],
+      "phonetic": "ˈlaɾɣo",
+      "pos": "adj."
+    },
+    {
+      "name": "corto",
+      "trans": [
+        "短的"
+      ],
+      "phonetic": "ˈkoɾto",
+      "pos": "adj."
+    },
+    {
+      "name": "fácil",
+      "trans": [
+        "容易的"
+      ],
+      "phonetic": "ˈfaθil",
+      "pos": "adj."
+    },
+    {
+      "name": "difícil",
+      "trans": [
+        "困难的"
+      ],
+      "phonetic": "diˈfiθil",
+      "pos": "adj."
+    },
+    {
+      "name": "importante",
+      "trans": [
+        "重要的"
+      ],
+      "phonetic": "impoɾˈtante",
+      "pos": "adj."
+    },
+    {
+      "name": "posible",
+      "trans": [
+        "可能的"
+      ],
+      "phonetic": "poˈsiβle",
+      "pos": "adj."
+    },
+    {
+      "name": "rápido",
+      "trans": [
+        "快的"
+      ],
+      "phonetic": "ˈrapiðo",
+      "pos": "adj."
+    },
+    {
+      "name": "lento",
+      "trans": [
+        "慢的"
+      ],
+      "phonetic": "ˈlento",
+      "pos": "adj."
+    },
+    {
+      "name": "caro",
+      "trans": [
+        "贵的"
+      ],
+      "phonetic": "ˈkaɾo",
+      "pos": "adj."
+    },
+    {
+      "name": "barato",
+      "trans": [
+        "便宜的"
+      ],
+      "phonetic": "baˈɾato",
+      "pos": "adj."
+    },
+    {
+      "name": "limpio",
+      "trans": [
+        "干净的"
+      ],
+      "phonetic": "ˈlimpjo",
+      "pos": "adj."
+    },
+    {
+      "name": "sucio",
+      "trans": [
+        "脏的"
+      ],
+      "phonetic": "ˈsuθjo",
+      "pos": "adj."
+    },
+    {
+      "name": "frío",
+      "trans": [
+        "冷的"
+      ],
+      "phonetic": "ˈfɾio",
+      "pos": "adj."
+    },
+    {
+      "name": "caliente",
+      "trans": [
+        "热的"
+      ],
+      "phonetic": "kaˈljente",
+      "pos": "adj."
+    },
+    {
+      "name": "contento",
+      "trans": [
+        "高兴的"
+      ],
+      "phonetic": "konˈtento",
+      "pos": "adj."
+    },
+    {
+      "name": "triste",
+      "trans": [
+        "悲伤的"
+      ],
+      "phonetic": "ˈtɾiste",
+      "pos": "adj."
+    },
+    {
+      "name": "feliz",
+      "trans": [
+        "幸福的"
+      ],
+      "phonetic": "feˈliθ",
+      "pos": "adj."
+    },
+    {
+      "name": "cansado",
+      "trans": [
+        "累的"
+      ],
+      "phonetic": "kanˈsaðo",
+      "pos": "adj."
+    },
+    {
+      "name": "enfermo",
+      "trans": [
+        "生病的"
+      ],
+      "phonetic": "emˈfeɾmo",
+      "pos": "adj."
+    },
+    {
+      "name": "rico",
+      "trans": [
+        "富有的",
+        "好吃的"
+      ],
+      "phonetic": "ˈriko",
+      "pos": "adj."
+    },
+    {
+      "name": "pobre",
+      "trans": [
+        "贫穷的"
+      ],
+      "phonetic": "ˈpoβɾe",
+      "pos": "adj."
+    },
+    {
+      "name": "fuerte",
+      "trans": [
+        "强的"
+      ],
+      "phonetic": "ˈfweɾte",
+      "pos": "adj."
+    },
+    {
+      "name": "bonito",
+      "trans": [
+        "漂亮的"
+      ],
+      "phonetic": "boˈnito",
+      "pos": "adj."
+    },
+    {
+      "name": "interesante",
+      "trans": [
+        "有趣的"
+      ],
+      "phonetic": "inteɾeˈsante",
+      "pos": "adj."
+    },
+    {
+      "name": "aburrido",
+      "trans": [
+        "无聊的"
+      ],
+      "phonetic": "aβuˈriðo",
+      "pos": "adj."
+    },
+    {
+      "name": "español",
+      "trans": [
+        "西班牙的",
+        "西班牙语"
+      ],
+      "phonetic": "espaˈɲol",
+      "pos": "adj."
+    },
+    {
+      "name": "chino",
+      "trans": [
+        "中国的",
+        "中文"
+      ],
+      "phonetic": "ˈtʃino",
+      "pos": "adj."
+    },
+    {
+      "name": "uno",
+      "trans": [
+        "一"
+      ],
+      "phonetic": "ˈuno",
+      "pos": "num."
+    },
+    {
+      "name": "dos",
+      "trans": [
+        "二"
+      ],
+      "phonetic": "dos",
+      "pos": "num."
+    },
+    {
+      "name": "tres",
+      "trans": [
+        "三"
+      ],
+      "phonetic": "tɾes",
+      "pos": "num."
+    },
+    {
+      "name": "cuatro",
+      "trans": [
+        "四"
+      ],
+      "phonetic": "ˈkwatɾo",
+      "pos": "num."
+    },
+    {
+      "name": "cinco",
+      "trans": [
+        "五"
+      ],
+      "phonetic": "ˈθiŋko",
+      "pos": "num."
+    },
+    {
+      "name": "seis",
+      "trans": [
+        "六"
+      ],
+      "phonetic": "sejs",
+      "pos": "num."
+    },
+    {
+      "name": "siete",
+      "trans": [
+        "七"
+      ],
+      "phonetic": "ˈsjete",
+      "pos": "num."
+    },
+    {
+      "name": "ocho",
+      "trans": [
+        "八"
+      ],
+      "phonetic": "ˈotʃo",
+      "pos": "num."
+    },
+    {
+      "name": "nueve",
+      "trans": [
+        "九"
+      ],
+      "phonetic": "ˈnweβe",
+      "pos": "num."
+    },
+    {
+      "name": "diez",
+      "trans": [
+        "十"
+      ],
+      "phonetic": "djeθ",
+      "pos": "num."
+    },
+    {
+      "name": "veinte",
+      "trans": [
+        "二十"
+      ],
+      "phonetic": "ˈbejnte",
+      "pos": "num."
+    },
+    {
+      "name": "cien",
+      "trans": [
+        "一百"
+      ],
+      "phonetic": "θjen",
+      "pos": "num."
+    },
+    {
+      "name": "mil",
+      "trans": [
+        "一千"
+      ],
+      "phonetic": "mil",
+      "pos": "num."
+    }
+  ]
+}
